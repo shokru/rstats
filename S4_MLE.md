@@ -60,6 +60,7 @@ diamonds %>% ggplot() + geom_histogram(aes(x = price / 1000, y = ..density..)) +
     ## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
 
 ![](Figures/first%20estimation-1.png)
+
 Finally, we take a look at the distribution of carats inside the dataset.
 
 ``` r
