@@ -31,9 +31,11 @@ library(tidyverse)
 
 This is usually done directly in the user interface, or with packages like *openxlsx* or *readxl* (to import Excel files) with the function read.xlsx() or read\_excel(). The basic case:  
 
-test\_data &lt;- read.xlsx("MyFile.xlsx") or  
+test\_data &lt;- read.xlsx("MyFile.xlsx")  
 
-test\_data &lt;- read\_excel("MyFile.xlsx").  
+or  
+
+test\_data &lt;- read\_excel("MyFile.xlsx")  
 
 
 This stores your data into the test\_data variable. This assumes that the Excel file "MyFile.xlsx" exists in your working directory.
