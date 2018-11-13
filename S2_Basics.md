@@ -6,7 +6,7 @@ R Basics
 
 ### Working directory
 
-The very first step after launching RStudio is to specify the working directory. You can do it directly in the Files pane, or via the setwd() function.
+The very first step after launching RStudio is to specify the working directory. You can do it directly in the *Files* pane, or via the setwd() function.
 
 ``` r
 getwd()
@@ -16,12 +16,12 @@ getwd()
 
 ### Packages
 
-Working with packages requires:
-1 - an installation, only once (basically it downloads the code on your computer)
-2 - an activation, each time you start RStudio
+Working with packages requires:  
+1 - an installation, only once (basically it downloads the code on your computer)  
+2 - an activation, each time you start RStudio  
 
 ``` r
-# install.packages(c("openxlsx", "readxl")) # The hashtag is used for comments: the program does not read the line
+# install.packages(c("openxlsx", "readxl")) # The hashtag is used for comments: the program does not read the content to the right of the hashtag.
 library(openxlsx)
 library(readxl)
 library(tidyverse)
@@ -29,12 +29,18 @@ library(tidyverse)
 
 ### Importing data
 
-This is usually done directly in the user interface, or with packages like *openxlsx* or *readxl* (to import Excel files) with the function read.xlsx() or read\_excel(). The basic case:test\_data &lt;- read.xlsx("MyFile.xlsx") or test\_data &lt;- read\_excel("MyFile.xlsx").
+This is usually done directly in the user interface, or with packages like *openxlsx* or *readxl* (to import Excel files) with the function read.xlsx() or read\_excel(). The basic case:  
+
+test\_data &lt;- read.xlsx("MyFile.xlsx") or  
+
+test\_data &lt;- read\_excel("MyFile.xlsx").  
+
+
 This stores your data into the test\_data variable. This assumes that the Excel file "MyFile.xlsx" exists in your working directory.
 
 ``` r
 anes <- read.xlsx("anes.xlsx")
-anes <- read_excel("anes.xlsx") # Same, with another packages
+anes <- read_excel("anes.xlsx") # Same thing, but with another package
 ```
 
 2 - CREATING DATA
