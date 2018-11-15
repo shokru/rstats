@@ -18,6 +18,15 @@ The code is written in R and tutorial is split in three sets of scripts:
 
 5.  **[Distributions](https://github.com/shokru/rstats/blob/master/S5_MC.md)**: random number generation with sequential tournaments as examples.
 
+Supplementary material:
+----------
+
+**[R memo](https://github.com/shokru/rstats/blob/master/R_Memo.md)**: a compilation of everything you need to know (survival toolkit).
+
+**[Example on financial data](https://github.com/shokru/rstats/blob/master/Finance_Study.md)**: exercises on 30 large US firms.
+
+
+
 ------------------------------------------------------------------------
 
 **DISCLAIMER**: the data and code are meant for pedagogical use only. 
