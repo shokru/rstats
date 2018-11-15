@@ -16,7 +16,7 @@ The code is written in R and tutorial is split in three sets of scripts:
 
 4.  **[Maximum likelihood estimation](https://github.com/shokru/rstats/blob/master/S4_MLE.md)**: the mle functions essentially.
 
-5.  **[Distributions](https://github.com/shokru/rstats/blob/master/S5_MC.md)**: random number generation with sequential tournaments as examples.
+5.  **[Monte-Carlo simulations](https://github.com/shokru/rstats/blob/master/S5_MC.md)**: random number generation with sequential tournaments as examples.
 
 Supplementary material:
 ----------
