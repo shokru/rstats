@@ -1,7 +1,5 @@
 Introduction to statistical methods with R
 ================
-Guillaume Coqueret
-
 This repository contains teaching material for introductory courses in R.
 
 
@@ -16,7 +14,9 @@ The code is written in R and tutorial is split in three sets of scripts:
 
 3.  **[Distributions](https://github.com/shokru/rstats/blob/master/S3_Distributions.md)**: descriptive statistics, parametric distributions, plots, histograms, etc.
 
-For each task and each technique, the degrees of freedom are numerous and the purpose is to play with the choice of variables, the parameters and the hyper-parameters.
+4.  **[Maximum likelihood estimation](https://github.com/shokru/rstats/blob/master/S4_MLE.md)**: the mle functions essentially.
+
+5.  **[Distributions](https://github.com/shokru/rstats/blob/master/S5_MC.md)**: random number generation with sequential tournaments as examples.
 
 ------------------------------------------------------------------------
 
