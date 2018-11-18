@@ -7,7 +7,7 @@ Learning / Pedagogy
 ----
 
 
-1.  **[What’s the best way to learn the programming language R?](https://qz.com/1464525/whats-the-best-way-to-learn-the-programming-language-r-preferably-for-free/)**: tips & resources for learning to program in R.
++.  **[What’s the best way to learn the programming language R?](https://qz.com/1464525/whats-the-best-way-to-learn-the-programming-language-r-preferably-for-free/)**: tips & resources for learning to program in R.
 
 
 ------------------------------------------------------------------------
@@ -19,11 +19,11 @@ Machine learning
 
 
 
-3.  **[Keras for R](https://blog.rstudio.com/2017/09/05/keras-for-r/)**: arguably the best solution for neural networks.
++.  **[Keras for R](https://blog.rstudio.com/2017/09/05/keras-for-r/)**: arguably the best solution for neural networks.
 
-2.  **[The xgboost package](https://xgboost.readthedocs.io/en/latest/R-package/xgboostPresentation.html)**: one of the best for boosted trees (with lightgbm).
++.  **[The xgboost package](https://xgboost.readthedocs.io/en/latest/R-package/xgboostPresentation.html)**: one of the best for boosted trees (with lightgbm).
 
-1.  **[The caret package](https://www.machinelearningplus.com/machine-learning/caret-package/)**: probably the most complete ML package.
++.  **[The caret package](https://www.machinelearningplus.com/machine-learning/caret-package/)**: probably the most complete ML package.
 
 
 ------------------------------------------------------------------------
