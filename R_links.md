@@ -95,5 +95,4 @@ Miscellaneous
 
 **[reticulate](https://rstudio.github.io/reticulate/)**: combining Python & R.
 
-**[Generative Art with R](https://github.com/cutterkom/generativeart)**: amazing geometric plots.
 
