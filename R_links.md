@@ -16,6 +16,9 @@ Learning / Pedagogy
 Machine learning
 ----------
 
+
+
+
 3.  **[Keras for R](https://blog.rstudio.com/2017/09/05/keras-for-r/)**: arguably the best solution for neural networks.
 
 2.  **[The xgboost package](https://xgboost.readthedocs.io/en/latest/R-package/xgboostPresentation.html)**: one of the best for boosted trees (with lightgbm).
@@ -28,6 +31,10 @@ Machine learning
 
 Visualisation
 ----------
+
+
+
+
 
 6.  **[Maps with R II](http://eriqande.github.io/rep-res-web/lectures/making-maps-with-R.html)**
 
@@ -59,6 +66,10 @@ Text mining
 Online books
 ----------
 
+
+
+
+
 4.  **[An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)**: introductory material. 
 
 3.  **[Advanced R](http://adv-r.had.co.nz)**: for well seasoned users. 
@@ -73,6 +84,10 @@ Online books
 
 Miscellaneous
 ----------
+
+
+
+
 
 5.  **[Send tweets from R](https://www.r-bloggers.com/send-tweets-from-r-a-very-short-walkthrough/)**: one application of the Twitter API.
 
