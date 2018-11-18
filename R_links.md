@@ -55,7 +55,7 @@ Visualisation
 Text mining
 ----------
 
-
+2.  **[Basic text mining in R](https://rstudio-pubs-static.s3.amazonaws.com/265713_cbef910aee7642dc8b62996e38d2825d.html)**: a smooth introduction.
 
 1.  **[Scrapping & text mining tripadvisor](https://towardsdatascience.com/scraping-tripadvisor-text-mining-and-sentiment-analysis-for-hotel-reviews-cc4e20aef333)**: sentiment analysis.
 
