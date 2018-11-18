@@ -25,7 +25,7 @@ Supplementary material:
 
 **[Example on financial data](https://github.com/shokru/rstats/blob/master/Finance_Study.md)**: exercises on 30 large US firms.
 
-
+**[Links: R on the web](https://github.com/shokru/rstats/blob/master/R_links.md)**: a palette of links, sorted by themes.
 
 ------------------------------------------------------------------------
 
