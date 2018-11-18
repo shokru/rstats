@@ -29,7 +29,7 @@ Supplementary material:
 
 ------------------------------------------------------------------------
 
-**DISCLAIMER**: the data and code are meant for pedagogical use only. 
+**DISCLAIMER**: the data and code are meant for pedagogical use only. Some parts of code are better understood with the corresponding slides (TBC).
 
 ------------------------------------------------------------------------
 
