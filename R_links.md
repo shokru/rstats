@@ -69,7 +69,7 @@ Text mining
 Finance
 ----------
 
-**[Reproducible finance](www.reproduciblefinance.com/)**: amazing resources for portfolio management.
+**[Reproducible finance](https://www.reproduciblefinance.com/)**: amazing resources for portfolio management.
 
 **[Portfolio volatility shiny app](https://rviews.rstudio.com/2017/08/09/portfolio-volatility-shiny-app/)**: tailor made vol plots.
 
