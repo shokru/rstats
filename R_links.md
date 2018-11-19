@@ -2,12 +2,26 @@ R on the web
 ================
 Useful links for people interested in R.
 
+------------------------------------------------------------------------
+
+
+Online books
+----------
+
+**[An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)**: introductory material. 
+
+**[Advanced R](http://adv-r.had.co.nz)**: for well seasoned users. 
+
+**[Text mining with R](https://www.tidytextmining.com)**: one reference book on the subject.
+
+**[R for data science](https://r4ds.had.co.nz)**: THE reference. Must read, must have.
+
+
 
 Learning / Pedagogy
 ----
 
-
-**[What’s the best way to learn the programming language R?](https://qz.com/1464525/whats-the-best-way-to-learn-the-programming-language-r-preferably-for-free/)**: tips & resources for learning to program in R.
+**[Datacamp's free intoduction to R](https://www.datacamp.com/courses/free-introduction-to-r)**: introduction to data structures.
 
 
 ------------------------------------------------------------------------
@@ -15,9 +29,6 @@ Learning / Pedagogy
 
 Machine learning
 ----------
-
-
-
 
 **[Keras for R](https://blog.rstudio.com/2017/09/05/keras-for-r/)**: arguably the best solution for neural networks.
 
@@ -32,17 +43,9 @@ Machine learning
 Visualisation
 ----------
 
-
-
-
-
 **[Maps with R I](http://eriqande.github.io/rep-res-web/lectures/making-maps-with-R.html)**
 
 **[Maps with R II](https://github.com/Robinlovelace/Creating-maps-in-R)**
-
-**[Introduction to gghighlight: Highlight ggplot's Lines and Points with Predicates](https://yutani.rbind.io/post/2017-10-06-gghighlight/)**: highlighting elements in ggplot.
-
-**[Portfolio volatility shiny app](https://rviews.rstudio.com/2017/08/09/portfolio-volatility-shiny-app/)**: tailor made vol plots.
 
 **[Animated plots with gganimate](https://www.data-imaginist.com/2018/what-are-we-plotting-what-are-we-animating/)**: ggplot, only, in motion!
 
@@ -63,20 +66,14 @@ Text mining
 ------------------------------------------------------------------------
 
 
-Online books
+Finance
 ----------
 
+**[Reproducible finance](www.reproduciblefinance.com/)**: amazing resources for portfolio management.
 
+**[Portfolio volatility shiny app](https://rviews.rstudio.com/2017/08/09/portfolio-volatility-shiny-app/)**: tailor made vol plots.
 
-
-
-**[An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)**: introductory material. 
-
-**[Advanced R](http://adv-r.had.co.nz)**: for well seasoned users. 
-
-**[Text mining with R](https://www.tidytextmining.com)**: one reference book on the subject.
-
-**[R for data science](https://r4ds.had.co.nz)**: THE reference. Must read, must have.
+**[The derivmkts pacakge](https://github.com/rmcd1024/derivmkts)**: option pricing with R.
 
 
 ------------------------------------------------------------------------
@@ -84,9 +81,6 @@ Online books
 
 Miscellaneous
 ----------
-
-
-
 
 
 **[Send tweets from R](https://www.r-bloggers.com/send-tweets-from-r-a-very-short-walkthrough/)**: one application of the Twitter API.
