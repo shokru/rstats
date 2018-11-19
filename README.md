@@ -23,7 +23,7 @@ Supplementary material:
 
 **[R memo](https://github.com/shokru/rstats/blob/master/R_Memo.md)**: a compilation of everything you need to know (survival toolkit).
 
-**[Example on financial data](https://github.com/shokru/rstats/blob/master/Finance_Study.md)**: exercises on 30 large US firms.
+**[Example on financial data](https://github.com/shokru/rstats/blob/master/Finance_Study.md)**: exercises on 30 large US firms; data **[here](https://github.com/shokru/rstats/blob/master/Figures/data.RData)**.
 
 **[Links: R on the web](https://github.com/shokru/rstats/blob/master/R_links.md)**: a palette of links, sorted by themes.
 
