@@ -6,7 +6,7 @@ This repository contains teaching material for introductory courses in R.
 Courses
 ----
 
-The code is written in R and tutorial is split in three sets of scripts:
+The code is written in R and the scripts can be found below:
 
 1.  **[Introduction to the tidyverse](https://github.com/shokru/rstats/blob/master/md/S1_tidyverse.md)**: plotting, filtering, organising data.
 
