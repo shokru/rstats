@@ -89,13 +89,13 @@ summary(data)
 data %>% filter(Tick == "MSFT") %>% ggplot(aes(x = Date, y = Close)) + geom_line() # First plot
 ```
 
-![](Figures/UP%20TO%20YOU!%201-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/UP%20TO%20YOU!%201-1.png)
 
 ``` r
 data %>% filter(Tick == "MSFT" | Tick == "IBM" | Tick == "AAPL") %>% ggplot(aes(x = Date, y = Close)) + geom_line(aes(color = Tick))
 ```
 
-![](Figures/UP%20TO%20YOU!%201-2.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/UP%20TO%20YOU!%201-2.png)
 
 ``` r
 # data %>% filter(Tick %in% c("MSFT", "IBM", "AAPL")) %>% ggplot(aes(x = Date, y = Close)) + geom_line(aes(color = Tick)) # Alternative solution
@@ -147,7 +147,7 @@ data$NClose <- tmp$NClose                                                     # 
 data %>% filter(Tick == "MSFT" | Tick == "IBM" | Tick == "AAPL") %>% ggplot(aes(x = Date, y = NClose)) + geom_line(aes(color = Tick))
 ```
 
-![](Figures/UP%20TO%20YOU!%203-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/UP%20TO%20YOU!%203-1.png)
 
 ``` r
 # Alternative solution below, using a loop:
@@ -292,7 +292,7 @@ ggcorrplot(C, hc.order = TRUE, type = "upper", outline.col = "white") +
     theme(text = element_text(size=8), axis.text.x = element_text(angle=90, hjust=1))
 ```
 
-![](Figures/UP%20TO%20YOU!%204-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/UP%20TO%20YOU!%204-1.png)
 
 ------------------------------------------------------------------------
 
@@ -329,7 +329,7 @@ data %>% group_by(Tick, Year) %>%
     ggplot(aes(x=Year, y =Avg_Cap)) + geom_line(aes(color = Tick))
 ```
 
-![](Figures/UP%20TO%20YOU!%205-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/UP%20TO%20YOU!%205-1.png)
 
 ``` r
 data %>% group_by(Tick, Year) %>% 
@@ -337,7 +337,7 @@ data %>% group_by(Tick, Year) %>%
     ggplot(aes(x=Year, y =Avg_Cap)) + geom_bar(aes(fill = Tick), stat = "identity")
 ```
 
-![](Figures/UP%20TO%20YOU!%205-2.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/UP%20TO%20YOU!%205-2.png)
 
 ``` r
 pt <- data %>% group_by(Tick) %>% 
@@ -364,7 +364,7 @@ data %>% ggplot(aes(x = Mkt_Cap, y = Return)) + geom_point() + stat_smooth()
 
     ## Warning: Removed 30 rows containing missing values (geom_point).
 
-![](Figures/UP%20TO%20YOU!%206-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/UP%20TO%20YOU!%206-1.png)
 
 ``` r
 pt %>% ggplot(aes(x = Avg_Cap, y = Avg_Ret)) + geom_point() + stat_smooth() +
@@ -373,7 +373,7 @@ pt %>% ggplot(aes(x = Avg_Cap, y = Avg_Ret)) + geom_point() + stat_smooth() +
 
     ## `geom_smooth()` using method = 'loess' and formula 'y ~ x'
 
-![](Figures/UP%20TO%20YOU!%206-2.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/UP%20TO%20YOU!%206-2.png)
 
 ``` r
 pt %>% ggplot(aes(x = Avg_Cap, y = Avg_Ret)) + geom_point() + stat_smooth(method = "lm") # lm is for 'linear model', hence the straight line.
@@ -386,14 +386,14 @@ pt %>% filter(Tick != "AAPL") %>% ggplot(aes(x = Avg_Cap, y = Avg_Ret)) +
     geom_point() + stat_smooth(method = "lm")
 ```
 
-![](Figures/UP%20TO%20YOU!%206-4.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/UP%20TO%20YOU!%206-4.png)
 
 ``` r
 pt %>% ggplot(aes(x = Avg_P2B, y = Avg_Ret)) + geom_point() + stat_smooth(method = "lm") +
     geom_text(aes(label = Tick))
 ```
 
-![](Figures/UP%20TO%20YOU!%206-5.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/UP%20TO%20YOU!%206-5.png)
 
 An outlier: error in the data? Further investigation would show that in 2017, the book value of Boeing was very small.
 In the above graphs, we see the mild negative relationship between firm size and average return. Though our sample is much too small and our study not rigourous, this resembles the so-called size effect according to which small firms are more profitable than large firms (though not in financial *bad times*).
@@ -419,4 +419,4 @@ for(t in 1:length(dates)){
 data.frame(dates, Agg_Cap) %>% ggplot(aes(x = as.Date(dates), y = Agg_Cap)) + geom_line()
 ```
 
-![](Figures/UP%20TO%20YOU!%207-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/UP%20TO%20YOU!%207-1.png)
