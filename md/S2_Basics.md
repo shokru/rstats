@@ -393,7 +393,7 @@ plot(data$Weight, ylim = c(10,100)) # ylim gives the y-axis limits
 lines(data$Age, col = "red")
 ```
 
-![](Figures/plot-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/plot-1.png)
 
 4 - LOOPS: 1st step towards programming
 ---------------------------------------
@@ -570,7 +570,7 @@ dens(3)
 ggplot(data.frame(x = c(-4,4)), aes(x = x)) + stat_function(fun = dens)
 ```
 
-![](Figures/fun-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/fun-1.png)
 
 ### Missing data
 

@@ -11,25 +11,25 @@ library(tidyverse)
 diamonds %>% filter(carat < 2.55) %>% ggplot() + geom_histogram(aes(x = carat), bins = 100)
 ```
 
-![](Figures/ex1-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/ex1-1.png)
 
 ``` r
 diamonds %>% filter(carat < 1.1) %>% ggplot() + geom_histogram(aes(x = carat), bins = 200) # Higher precision for small diamonds
 ```
 
-![](Figures/ex1-2.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/ex1-2.png)
 
 ``` r
 diamonds %>% filter(carat < 2.55) %>% ggplot() + geom_histogram(aes(x = price), bins = 30)
 ```
 
-![](Figures/ex1-3.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/ex1-3.png)
 
 ``` r
 diamonds %>% ggplot(aes(x = cut)) + geom_bar(aes(y = (..count..)/sum(..count..))) + ylab("Proportion")
 ```
 
-![](Figures/ex1-4.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/ex1-4.png)
 
 Sometimes, it is easier to quantify the distribution of a variable with a few numbers: the mean, the standard deviation, etc. They are usually called the 'descriptive statistics'.
 
@@ -89,13 +89,13 @@ means <- diamonds %>% group_by(cut, clarity, color) %>%
 means %>% ggplot(aes(x = avg_carat, y = avg_price)) + geom_point(aes(color = clarity, size = cut))
 ```
 
-![](Figures/group_by-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/group_by-1.png)
 
 ``` r
 means %>% ggplot(aes(x = avg_carat, y = avg_price)) + geom_point(aes(color = cut, size = clarity))
 ```
 
-![](Figures/group_by-2.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/group_by-2.png)
 
 The above plots reveal different clusters! Typically, they show the impact of the clarity on the size of the diamonds (and hence on their price). Or is it the other way around?
 
@@ -108,7 +108,7 @@ diamonds %>% ggplot(aes(x = price)) +
     theme(text = element_text(size=12))
 ```
 
-![](Figures/facets-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/facets-1.png)
 
 ### Convergence from histogram (discrete) to density (continuous)
 
@@ -118,19 +118,19 @@ colnames(x) <- "simulation"
 x %>% ggplot(aes(x = simulation)) + geom_histogram(bins = 20)
 ```
 
-![](Figures/convergence-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/convergence-1.png)
 
 ``` r
 x %>% ggplot(aes(x = simulation)) + geom_histogram(bins = 100)
 ```
 
-![](Figures/convergence-2.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/convergence-2.png)
 
 ``` r
 x %>% ggplot(aes(x = simulation)) + geom_histogram(bins = 1000)
 ```
 
-![](Figures/convergence-3.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/convergence-3.png)
 
 Parametric families
 -------------------
@@ -150,7 +150,7 @@ ggplot(data.frame(x = c(-6, 9)), aes(x)) +
   scale_colour_manual("Legend", values = c("#B266FF", "#6666FF", "#66B2FF", "#00FF80"))
 ```
 
-![](Figures/norm_dens-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/norm_dens-1.png)
 
 The coding of many RGB colors can be found here: <https://www.rapidtables.com/web/color/RGB_Color.html>
 The Gaussian distribution has very light tails: extreme points are very rare. Its heavy-tailed *cousin* is the Student distribution.
@@ -163,7 +163,7 @@ ggplot(data.frame(x = c(-7, 7)), aes(x)) +
   stat_function(fun = dnorm, args = list(mean = 0, sd = 2), aes(color = "m = 0, s = 2.0 (Gaussian)")) 
 ```
 
-![](Figures/t_dens-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/t_dens-1.png)
 
 ``` r
 ggplot(data.frame(x = c(-9, -3)), aes(x)) + 
@@ -173,7 +173,7 @@ ggplot(data.frame(x = c(-9, -3)), aes(x)) +
   stat_function(fun = dnorm, args = list(mean = 0, sd = 2), aes(color = "m = 0, s = 2.0 (Gaussian)")) 
 ```
 
-![](Figures/t_dens-2.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/t_dens-2.png)
 
 On the second graph, we have zoomed on the left tail to see the difference.
 
@@ -190,7 +190,7 @@ ggplot(data.frame(x = c(0, 6)), aes(x)) +
   scale_colour_manual("Legend", values = c("#FF3333", "#FF9933", "#66B2FF", "#00FF80"))
 ```
 
-![](Figures/gamma_dens-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/gamma_dens-1.png)
 
 ``` r
 ggplot(data.frame(x = c(0, 1)), aes(x)) + 
@@ -201,7 +201,7 @@ ggplot(data.frame(x = c(0, 1)), aes(x)) +
   scale_colour_manual("Legend", values = c("#FF3333", "#FF9933", "#66B2FF", "#00FF80"))
 ```
 
-![](Figures/beta_dens-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/beta_dens-1.png)
 
 Other examples include the Pareto and the lognormal distributions.
 Another class of continuous distributions is that of laws with bounded support. The uniform and the beta laws belong to this class.
@@ -217,7 +217,7 @@ ggplot(data.frame(x = c(0,8)), aes(x)) +
   stat_function(aes(color = "lambda = 3", size = 1.1), geom = "point", n = 9, fun = dpois, args = list(lambda = 3))
 ```
 
-![](Figures/discrete-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/discrete-1.png)
 
 Other usual families: hypergeometric, beta-binomial (finite support), negative binomial (infinite support).
 
@@ -229,7 +229,7 @@ ggplot(data.frame(x = c(-3,5)), aes(x)) +
   stat_function(aes(color = "POISSON, lambda = 2", size = 1.2), geom = "point", n = 9, fun = ppois, args = list(lambda = 2)) 
 ```
 
-![](Figures/cdf-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/cdf-1.png)
 
 ### Strange mixes
 
@@ -242,7 +242,7 @@ ggplot(data.frame(x = c(-6, 9)), aes(x)) + stat_function(fun = dens, aes(color =
   stat_function(fun = dens_2, aes(color = "mix_2"))
 ```
 
-![](Figures/mix-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/mix-1.png)
 
 Correlations
 ------------
@@ -276,7 +276,7 @@ z <- mvrnorm(1000, mu = m, Sigma = sig) %>% data.frame()
 ggplot(z, aes(x = X1, y = X2)) + geom_point()
 ```
 
-![](Figures/cor_simulated-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/cor_simulated-1.png)
 
 Let's see what happens with diamonds!
 
@@ -288,6 +288,6 @@ diamonds %>%
     theme(text = element_text(size=12))
 ```
 
-![](Figures/cor_diamonds-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/cor_diamonds-1.png)
 
 Obviously, the correlation is positive. The slopes a probably non-linear and depend both on clarity and color.

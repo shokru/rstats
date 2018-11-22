@@ -59,7 +59,7 @@ ggplot(diamonds) + geom_point(aes(x = carat, y = price), size = 0.5, color = "#0
 
     ## Warning: Removed 32 rows containing missing values (geom_point).
 
-![](Figures/Plotting%20diamonds-1.png) Note: 32 instances are absent because the corresponing diamonds are too big. The green line shows the linearized relationship between size and price. The color is provided using the hexadecimal code for RGB colors.
+![](https://github.com/shokru/rstats/blob/master/Figures/Plotting%20diamonds-1.png) Note: 32 instances are absent because the corresponing diamonds are too big. The green line shows the linearized relationship between size and price. The color is provided using the hexadecimal code for RGB colors.
 
 We can add features.
 
@@ -70,7 +70,7 @@ ggplot(diamonds) + geom_point(aes(x = carat, y = price, color = clarity, size = 
 
     ## Warning: Removed 5 rows containing missing values (geom_point).
 
-![](Figures/Adding%20graphical%20features-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/Adding%20graphical%20features-1.png)
 
 Another popular graph type is the bar plot.
 
@@ -78,7 +78,7 @@ Another popular graph type is the bar plot.
 ggplot(diamonds) + geom_bar(aes(x = cut, fill = clarity)) + ggtitle("Number of diamonds") 
 ```
 
-![](Figures/Alternative%20representation-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/Alternative%20representation-1.png)
 
 Plotting is closely related to layers (like in Photoshop). Several layers can be superposed. Alternative colour palettes can be used.
 
@@ -88,7 +88,7 @@ ggplot(diamonds,aes(x = price, fill = color)) + geom_hline(yintercept = 1000) +
     scale_fill_brewer(palette = "RdYlBu")
 ```
 
-![](Figures/Going%20even%20further%20&%20adding%20a%20layer%20+%20changing%20colour%20palette-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/Going%20even%20further%20&%20adding%20a%20layer%20+%20changing%20colour%20palette-1.png)
 
 Further references for graph types:
 <https://developers.google.com/chart/interactive/docs/gallery>
@@ -237,7 +237,7 @@ diamonds %>%
 
     ## `geom_smooth()` using method = 'gam' and formula 'y ~ s(x, bs = "cs")'
 
-![](Figures/piping:%20combine%20two%20or%20more%20functions!-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/piping:%20combine%20two%20or%20more%20functions!-1.png)
 
 ``` r
 # The last part aims to ease visual pattern detection
@@ -270,7 +270,7 @@ diamonds %>%
 
     ## Warning: Using shapes for an ordinal variable is not advised
 
-![](Figures/Analytics%20101:%20combine%20group_by()%20and%20summarize()%20&%20get%20pivot%20tables!-1.png) Rectangular data can be organized is several ways.
+![](https://github.com/shokru/rstats/blob/master/Figures/Analytics%20101:%20combine%20group_by()%20and%20summarize()%20&%20get%20pivot%20tables!-1.png) Rectangular data can be organized is several ways.
 
 ``` r
 diamonds %>% group_by(cut, color) %>% summarize(avg_price = mean(price)) # one way to see things.. how do I get a matrix out of this? => spread()!

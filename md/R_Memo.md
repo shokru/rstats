@@ -542,13 +542,13 @@ In R, there is one major function for graphical representation: ggplot().
 ggplot(data) + geom_point(aes(x = Height, y = Weight, color = Age, shape = Gender, size = Age))
 ```
 
-![](Figures/ggplot-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/ggplot-1.png)
 
 ``` r
 ggplot(diamonds) + geom_bar(aes(x = clarity, fill = cut))
 ```
 
-![](Figures/ggplot-2.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/ggplot-2.png)
 
 ``` r
 diamonds %>% 
@@ -557,7 +557,7 @@ diamonds %>%
     ggplot(aes(x = clarity, y = med_carat)) + geom_bar(stat = "identity")
 ```
 
-![](Figures/ggplot-3.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/ggplot-3.png)
 
 ``` r
  # When providing a "y" for a barplot, you must specify the stat="identity". This graph shows that large diamonds are much less "pure" than smaller ones. Which makes sense.

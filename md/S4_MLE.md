@@ -19,7 +19,7 @@ m <- mean(diamonds$price)
 ggplot(diamonds, aes(x = price)) + geom_histogram(aes(y = ..density..)) + stat_function(fun = dexp, args = list(1/m), color = "red")
 ```
 
-![](Figures/MM_1-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/MM_1-1.png)
 
 A better fit could be obtained by a family with 2 parameters: let's try the gamma distribution.
 
@@ -29,7 +29,7 @@ v <- var(diamonds$price)
 ggplot(diamonds, aes(x = price)) + geom_histogram(aes(y = ..density..)) + stat_function(fun = dgamma, args = list(shape = m^2/v, rate = m/v), color = "cyan")
 ```
 
-![](Figures/MM_2-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/MM_2-1.png)
 
 Maximum Likelihood Estimation
 -----------------------------
@@ -59,7 +59,7 @@ diamonds %>% ggplot() + geom_histogram(aes(x = price / 1000, y = ..density..)) +
 
     ## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
 
-![](Figures/first%20estimation-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/first%20estimation-1.png)
 
 Finally, we take a look at the distribution of carats inside the dataset.
 
@@ -86,4 +86,4 @@ diamonds %>% ggplot() + geom_histogram(aes(x = carat, y = ..density..)) + stat_f
 
     ## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
 
-![](Figures/second%20estimation-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/second%20estimation-1.png)
