@@ -6,7 +6,7 @@ This repository contains teaching material for introductory courses in R.
 Courses
 ----
 
-The code is written in R and the scripts can be found below:
+The scripts for each session can be found below:
 
 1.  **[Introduction to the tidyverse](https://github.com/shokru/rstats/blob/master/md/S1_tidyverse.md)**: plotting, filtering, organising data.
 
@@ -25,7 +25,9 @@ Supplementary material:
 
 **[Example on financial data](https://github.com/shokru/rstats/blob/master/md/Finance_Study.md)**: exercises on 30 large US firms; data **[here](https://github.com/shokru/rstats/blob/master/Figures/data.RData)**.
 
-**[Links: R on the web](https://github.com/shokru/rstats/blob/master/md/R_links.md)**: a palette of links, sorted by themes.
+**[Links: R on the web](https://github.com/shokru/rstats/blob/master/md/R_links.md)**: a short list of links, sorted by themes.  
+
+Exercises and solutions are available upon request.
 
 ------------------------------------------------------------------------
 
