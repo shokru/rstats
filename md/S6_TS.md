@@ -35,7 +35,7 @@ eco <- economics %>% select(-Year, -Quarter) %>% gather(key = Variable, value = 
 ggplot(eco, aes(x = Date, y = Value)) + geom_line() + facet_grid(Variable ~ .,  scales = 'free')
 ```
 
-![](S6_TS_files/figure-markdown_github/plots_1-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/plots_1-1.png)
 
 Obviously, these series are not stationary (at least the first two), if only because of their trend which implies that their mean increases with time (the range of the distribution is clearly not constant). One possible solution is to study variations:
 
@@ -44,14 +44,14 @@ economics$GDP_var <- economics$GDP - lag(economics$GDP)    # Variation in GDP
 ggplot(economics, aes(x = Date, y = GDP_var)) + geom_point()
 ```
 
-![](S6_TS_files/figure-markdown_github/variations-1.png) Clearly, this is better. Indeed, it seems that the variations in the French GDP display a somewhat coherent pattern. Nevertheless, the classical transform used to \`stationarise' series consists in taking returns, i.e., relative variations:
+![](https://github.com/shokru/rstats/blob/master/Figures/variations-1.png) Clearly, this is better. Indeed, it seems that the variations in the French GDP display a somewhat coherent pattern. Nevertheless, the classical transform used to \`stationarise' series consists in taking returns, i.e., relative variations:
 
 ``` r
 economics$GDP_ret <- economics$GDP / lag(economics$GDP) - 1 # Return in GDP
 ggplot(economics, aes(x = Date, y = GDP_ret)) + geom_bar(stat = "identity") 
 ```
 
-![](S6_TS_files/figure-markdown_github/returns-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/returns-1.png)
 
 The original process can be reconstructed from returns:
 $$X\_t=X\_0\\prod\_{s=1}^t(1+r\_s).$$
@@ -67,7 +67,7 @@ type <- c(rep("r",12), rep("x",12))
 data.frame(time,value,type) %>% ggplot(aes(x = time, y = value)) + geom_line() +facet_grid(type~., scales = "free")
 ```
 
-![](S6_TS_files/figure-markdown_github/reconstruction-1.png) When returns are negative (resp. positive), the process x decreases (resp. increases).
+![](https://github.com/shokru/rstats/blob/master/Figures/reconstruction-1.png) When returns are negative (resp. positive), the process x decreases (resp. increases).
 
 Classical processes
 -------------------
@@ -85,7 +85,7 @@ for(n in 2:nb_steps){
 data.frame(date = 1:nb_steps, x) %>% ggplot(aes(x = date, y = x)) + geom_line()
 ```
 
-![](S6_TS_files/figure-markdown_github/RW_1-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/RW_1-1.png)
 
 ``` r
 x <- 0 # A quicker, neater way to proceed.
@@ -95,7 +95,7 @@ df <- data.frame(time = 1:nb_steps, x)
 ggplot(df, aes(x = time, y = x)) + geom_line()
 ```
 
-![](S6_TS_files/figure-markdown_github/RW_2-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/RW_2-1.png)
 
 ### Autoregressive processes
 
@@ -112,7 +112,7 @@ for(n in 2:nb_steps){
 data.frame(date = 1:nb_steps, x) %>% ggplot(aes(x = date, y = x)) + geom_line()
 ```
 
-![](S6_TS_files/figure-markdown_github/AR(1)-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/AR(1)-1.png)
 
 Let's use a dedicated function.
 
@@ -125,7 +125,7 @@ AR %>% cbind(Time) %>% data.frame() %>% ggplot(aes(x = Time, y = AR)) + geom_lin
 
     ## Don't know how to automatically pick scale for object of type ts. Defaulting to continuous.
 
-![](S6_TS_files/figure-markdown_github/AR(1)%20v2-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/AR(1)%20v2-1.png)
 
 ### Autocorrelogram
 
@@ -135,13 +135,13 @@ The autocorrelogram computes the correlation between lagged values of the series
 acf(economics$GDP_ret, na.action = na.pass)
 ```
 
-![](S6_TS_files/figure-markdown_github/acf-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/acf-1.png)
 
 ``` r
 acf(AR)
 ```
 
-![](S6_TS_files/figure-markdown_github/acf-2.png) We see autocorrelation in the French economic growth. This probably comes from so-called economic cycles (periods of growth followed by recessions).
+![](https://github.com/shokru/rstats/blob/master/Figures/acf-2.png) We see autocorrelation in the French economic growth. This probably comes from so-called economic cycles (periods of growth followed by recessions).
 
 ### Estimation
 
@@ -265,7 +265,7 @@ data %>% ggplot(aes(x = Date, y = Value)) +
 
     ## Warning: Removed 2 rows containing missing values (position_stack).
 
-![](S6_TS_files/figure-markdown_github/multi-1.png)
+![](https://github.com/shokru/rstats/blob/master/Figures/multi-1.png)
 
 ``` r
 economics %>% ggplot(aes(x = GDP_ret, y = Unemp_ret)) + geom_point() + geom_smooth(method = "lm")
@@ -275,7 +275,7 @@ economics %>% ggplot(aes(x = GDP_ret, y = Unemp_ret)) + geom_point() + geom_smoo
 
     ## Warning: Removed 1 rows containing missing values (geom_point).
 
-![](S6_TS_files/figure-markdown_github/multi-2.png) Raw GDP and unemployment appear unrelated. But variations in both variables are negatively correlated: when GDP increases, unemployment decreases. The last correlation show that even the previous value of change in growth is correlated to current change in unemployment.
+![](https://github.com/shokru/rstats/blob/master/Figures/multi-2.png) Raw GDP and unemployment appear unrelated. But variations in both variables are negatively correlated: when GDP increases, unemployment decreases. The last correlation show that even the previous value of change in growth is correlated to current change in unemployment.
 
 ### Estimation
 
