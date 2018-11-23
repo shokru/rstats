@@ -18,7 +18,7 @@ The scripts for each session can be found below:
 
 5.  **[Monte-Carlo simulations](https://github.com/shokru/rstats/blob/master/md/S5_MC.md)**: random number generation with sequential tournaments as examples.
 
-6.  **[Time-series analysis](https://github.com/shokru/rstats/blob/master/md/S6_TS.md)**: AR, VAR fitting & predicting using **[French](https://github.com/shokru/rstats/blob/master/Figures/economics.RData)** economic data.
+6.  **[Time-series analysis](https://github.com/shokru/rstats/blob/master/md/S6_TS.md)**: AR, VAR fitting & predicting using **[French economic data](https://github.com/shokru/rstats/blob/master/Figures/economics.RData)**.
 
 Supplementary material:
 ----------
