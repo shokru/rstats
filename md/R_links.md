@@ -82,7 +82,7 @@ Finance
 Miscellaneous
 ----------
 
-**[R Weekly](rweekly.org/)**: frequent updates in the R community.
+**[R Weekly](https://www.rweekly.org/)**: frequent updates in the R community.
 
 **[Send tweets from R](https://www.r-bloggers.com/send-tweets-from-r-a-very-short-walkthrough/)**: one application of the Twitter API.
 
