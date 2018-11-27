@@ -14,11 +14,19 @@ The scripts for each session can be found below:
 
 3.  **[Distributions](https://github.com/shokru/rstats/blob/master/md/S3_Distributions.md)**: descriptive statistics, parametric distributions, plots, histograms, etc.
 
-4.  **[Maximum likelihood estimation](https://github.com/shokru/rstats/blob/master/md/S4_MLE.md)**: the mle functions essentially.
+4.  **[Maximum likelihood estimation](https://github.com/shokru/rstats/blob/master/md/S4_MLE.md)**: moment matching versus the mle/mle2 functions.
 
 5.  **[Monte-Carlo simulations](https://github.com/shokru/rstats/blob/master/md/S5_MC.md)**: random number generation with sequential tournaments as examples.
 
 6.  **[Time-series analysis](https://github.com/shokru/rstats/blob/master/md/S6_TS.md)**: AR, VAR fitting & predicting using **[French economic data](https://github.com/shokru/rstats/blob/master/Figures/economics.RData)**.
+
+
+Datasets:
+----------
+
+**[French economic indicators](https://github.com/shokru/rstats/blob/master/Figures/economics.RData)**
+
+**[Financial data on 30 large US firms](https://github.com/shokru/rstats/blob/master/Figures/data.RData)**
 
 Supplementary material:
 ----------
