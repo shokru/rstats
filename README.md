@@ -24,9 +24,10 @@ The scripts for each session can be found below:
 Datasets:
 ----------
 
-**[French economic indicators](https://github.com/shokru/rstats/blob/master/Figures/economics.RData)**
 
-**[Financial data on 30 large US firms](https://github.com/shokru/rstats/blob/master/Figures/data.RData)**
+> **[French economic indicators](https://github.com/shokru/rstats/blob/master/Figures/economics.RData)**
+
+> **[Financial data on 30 large US firms](https://github.com/shokru/rstats/blob/master/Figures/data.RData)**
 
 Supplementary material:
 ----------
