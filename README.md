@@ -20,6 +20,7 @@ The scripts for each session can be found below. __If the links fail to load (th
 
 6.  **[Time-series analysis](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S6_TS.nb.html)**: AR, VAR fitting & predicting using **[French economic data](https://github.com/shokru/rstats/blob/master/Figures/economics.RData)**.
 
+7.  **[Bayesian inference](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S7_Bayes.nb.html)**: conjugate priors, grid approximation and a snapshot of Markov Chains (but no MCMC)
 
 Datasets:
 ----------
