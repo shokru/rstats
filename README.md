@@ -8,7 +8,7 @@ Courses
 
 The scripts for each session can be found below:
 
-1.  **[Introduction to the tidyverse](https://github.com/shokru/rstats/blob/master/md/S1_tidyverse.md)**: plotting, filtering, organising data.
+1.  **[Introduction to the tidyverse](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S1_tidyverse.nb.html)**: plotting, filtering, organising data.
 
 2.  **[Basic R instructions](https://github.com/shokru/rstats/blob/master/md/S2_Basics.md)**: package installation, data generation, matrix & dataframe manipulation, loops and simple functions.
 
