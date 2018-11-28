@@ -6,7 +6,7 @@ This repository contains teaching material for introductory courses in R.
 Courses
 ----
 
-The scripts for each session can be found below:
+The scripts for each session can be found below. If the links fail to load, you can download the orignal html notebooks directly on your computer.
 
 1.  **[Introduction to the tidyverse](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S1_tidyverse.nb.html)**: plotting, filtering, organising data.
 
