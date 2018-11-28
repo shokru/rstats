@@ -10,15 +10,15 @@ The scripts for each session can be found below:
 
 1.  **[Introduction to the tidyverse](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S1_tidyverse.nb.html)**: plotting, filtering, organising data.
 
-2.  **[Basic R instructions](https://github.com/shokru/rstats/blob/master/md/S2_Basics.md)**: package installation, data generation, matrix & dataframe manipulation, loops and simple functions.
+2.  **[Basic R instructions](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S2_Basics.nb.html)**: package installation, data generation, matrix & dataframe manipulation, loops and simple functions.
 
-3.  **[Distributions](https://github.com/shokru/rstats/blob/master/md/S3_Distributions.md)**: descriptive statistics, parametric distributions, plots, histograms, etc.
+3.  **[Distributions](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S3_Distributions.nb.html)**: descriptive statistics, parametric distributions, plots, histograms, etc.
 
-4.  **[Maximum likelihood estimation](https://github.com/shokru/rstats/blob/master/md/S4_MLE.md)**: moment matching versus the mle/mle2 functions.
+4.  **[Maximum likelihood estimation](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S4_MLE.nb.html)**: moment matching versus the mle/mle2 functions.
 
-5.  **[Monte-Carlo simulations](https://github.com/shokru/rstats/blob/master/md/S5_MC.md)**: random number generation with sequential tournaments as examples.
+5.  **[Monte-Carlo simulations](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S5_MC.nb.html)**: random number generation with sequential tournaments as examples.
 
-6.  **[Time-series analysis](https://github.com/shokru/rstats/blob/master/md/S6_TS.md)**: AR, VAR fitting & predicting using **[French economic data](https://github.com/shokru/rstats/blob/master/Figures/economics.RData)**.
+6.  **[Time-series analysis](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S6_TS.nb.html)**: AR, VAR fitting & predicting using **[French economic data](https://github.com/shokru/rstats/blob/master/Figures/economics.RData)**.
 
 
 Datasets:
