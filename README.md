@@ -6,7 +6,7 @@ This repository contains teaching material for introductory courses in R.
 Courses
 ----
 
-The scripts for each session can be found below. If the links fail to load, you can download the orignal html notebooks directly on your computer.
+The scripts for each session can be found below. If the links fail to load (the files are heavy), you can download the orignal html notebooks directly on your computer.
 
 1.  **[Introduction to the tidyverse](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S1_tidyverse.nb.html)**: plotting, filtering, organising data.
 
@@ -24,18 +24,18 @@ The scripts for each session can be found below. If the links fail to load, you 
 Datasets:
 ----------
 
-> **[ANES data: US political surveys](https://github.com/shokru/rstats/blob/master/Figures/anes.RData)**
+> **[ANES data: US political surveys](https://github.com/shokru/rstats/blob/master/data/anes.RData)** and in **[Excel form](https://github.com/shokru/rstats/blob/master/data/anes.xlsx)**
 
-> **[French economic indicators](https://github.com/shokru/rstats/blob/master/Figures/economics.RData)**
+> **[French economic indicators](https://github.com/shokru/rstats/blob/master/data/economics.RData)**
 
-> **[Financial data on 30 large US firms](https://github.com/shokru/rstats/blob/master/Figures/data.RData)**
+> **[Financial data on 30 large US firms](https://github.com/shokru/rstats/blob/master/data/data.RData)**
 
 Supplementary material:
 ----------
 
-**[R memo](https://github.com/shokru/rstats/blob/master/md/R_Memo.md)**: a compilation of everything you need to know (survival toolkit).
+**[R memo](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/R_Memo.nb.html)**: a compilation of everything you need to know (survival toolkit).
 
-**[Example on financial data](https://github.com/shokru/rstats/blob/master/md/Finance_Study.md)**: exercises on 30 large US firms; data **[here](https://github.com/shokru/rstats/blob/master/Figures/data.RData)**.
+**[Example on financial data](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/Fin_solutions.nb.html)**: exercises on 30 large US firms; data **[here](https://github.com/shokru/rstats/blob/master/Figures/data.RData)**.
 
 **[Links: R on the web](https://github.com/shokru/rstats/blob/master/md/R_links.md)**: a short list of links, sorted by themes.  
 
