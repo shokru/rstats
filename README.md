@@ -7,7 +7,7 @@ Courses
 ----
 
 The scripts for each session can be found below.   
-**_Some files are too heavy to load_**: you can download the orignal html notebooks directly on your computer (from the above dedicated folder).
+**_Some files are too heavy to load_**: you can download the orignal html notebooks directly on your computer and open them in your browser (from the dedicated folder - just above).
 
 1.  **[Introduction to the tidyverse](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S1_tidyverse.nb.html)**: plotting, filtering, organising data.
 
