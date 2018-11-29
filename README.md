@@ -18,7 +18,7 @@ The scripts for each session can be found below. Some files are too heavy to loa
 
 5.  **[Monte-Carlo simulations](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S5_MC.nb.html)**: random number generation with sequential tournaments as examples.
 
-6.  **[Time-series analysis](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S6_TS.nb.html)**: AR, VAR fitting & predicting using **[French economic data](https://github.com/shokru/rstats/blob/master/Figures/economics.RData)**.
+6.  **[Time-series analysis](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S6_TS.nb.html)**: AR, VAR fitting & predicting using **[French economic data](https://github.com/shokru/rstats/blob/master/data/economics.RData)**.
 
 7.  **[Bayesian inference](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S7_Bayes.nb.html)**: conjugate priors, grid approximation and a snapshot of Markov Chains (but no MCMC sadly).
 
@@ -41,7 +41,7 @@ Supplementary material:
 
 **[R memo](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/R_Memo.nb.html)**: a compilation of everything you need to know (survival toolkit).
 
-**Example on financial data** (no link: file too big!): exercises on 30 large US firms; data **[here](https://github.com/shokru/rstats/blob/master/Figures/data.RData)**.
+**Example on financial data** (no link: file too big!): exercises on 30 large US firms; data **[here](https://github.com/shokru/rstats/blob/master/data/data.RData)**.
 
 **[Links: R on the web](https://github.com/shokru/rstats/blob/master/md/R_links.md)**: a short list of links, sorted by themes.  
 
