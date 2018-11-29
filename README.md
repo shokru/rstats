@@ -7,11 +7,11 @@ Courses
 ----
 
 The scripts for each session can be found below.   
-Some files are too heavy to load: you can download the orignal html notebooks directly on your computer (from the above dedicated folder).
+*Some files are too heavy to load*: you can download the orignal html notebooks directly on your computer (from the above dedicated folder).
 
 1.  **[Introduction to the tidyverse](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S1_tidyverse.nb.html)**: plotting, filtering, organising data.
 
-2.  **[Basic R instructions](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S2_Basics.nb.html)**: package installation, data generation, matrix & dataframe manipulation, loops and simple functions.
+2.  **[Basic R instructions](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S2_Basics.nb.html)**: pkg installation, data generation, matrix & dataframe manipulation, loops and simple functions.
 
 3.  **Distributions** (no link: file too big!): descriptive statistics, parametric distributions, plots, histograms, etc.
 
