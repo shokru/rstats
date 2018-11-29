@@ -19,11 +19,11 @@ The scripts for each session can be found below.
 
 5.  **[Monte-Carlo simulations](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S5_MC.nb.html)**: random number generation with sequential tournaments as examples + cool exercises.
 
-6.  **[Time-series analysis](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S6_TS.nb.html)**: AR, VAR fitting & predicting using **[French economic data](https://github.com/shokru/rstats/blob/master/data/economics.RData)**.
+6.  **[Time-series analysis](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S6_TS.nb.html)**: AR, VAR fitting & predictions using **[French economic data](https://github.com/shokru/rstats/blob/master/data/economics.RData)**.
 
 7.  **[Bayesian inference](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S7_Bayes.nb.html)**: conjugate priors, grid approximation and a snapshot of Markov Chains (but no MCMC sadly).
 
-8.  **[Statistical tests & regressions](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S8_Test.nb.html)**: one and two mean tests, regression analysis.
+8.  **[Statistical tests & regressions](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S8_Test.nb.html)**: one and two mean tests, basic regression analysis.
 
 
 Datasets:
