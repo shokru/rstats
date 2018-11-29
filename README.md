@@ -31,6 +31,8 @@ Datasets:
 
 > **[Financial data on 30 large US firms](https://github.com/shokru/rstats/blob/master/data/data.RData)**
 
+You can download all file at once **[here](https://github.com/shokru/rstats/blob/master/data/all_files.zip)**.
+
 Supplementary material:
 ----------
 
