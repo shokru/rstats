@@ -25,7 +25,7 @@ The scripts for each session can be found below. Some files are too heavy to loa
 Datasets:
 ----------
 
-> **[ANES data: US political surveys](https://github.com/shokru/rstats/blob/master/data/anes.RData)** and in **[Excel form](https://github.com/shokru/rstats/blob/master/data/anes.xlsx)**
+> **[ANES data: US political surveys (1990-2016)](https://github.com/shokru/rstats/blob/master/data/anes.RData)** and in **[Excel form](https://github.com/shokru/rstats/blob/master/data/anes.xlsx)**
 
 > **[French economic indicators](https://github.com/shokru/rstats/blob/master/data/economics.RData)**
 
@@ -44,7 +44,7 @@ Exercises and solutions are available upon request.
 
 ------------------------------------------------------------------------
 
-**DISCLAIMER**: the data and code are meant for pedagogical use only. Some parts of code are better understood with the corresponding slides.
+**DISCLAIMER**: the data and code are meant for pedagogical use only. 
 
 ------------------------------------------------------------------------
 
