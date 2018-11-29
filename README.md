@@ -39,6 +39,8 @@ You can download all files at once **[here](https://github.com/shokru/rstats/blo
 Supplementary material:
 ----------
 
+The original **[Rmd files](https://github.com/shokru/rstats/blob/master/material/all_Rmd.zip)** (.zip) as well as the correction of exercises **[also in Rmd format](https://github.com/shokru/rstats/blob/master/material/Solution_files.zip)** (.zip also).
+
 **[R memo](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/R_Memo.nb.html)**: a compilation of everything you need to know (survival toolkit).
 
 **Example on financial data** (no link: file too big!): exercises on 30 large US firms; data **[here](https://github.com/shokru/rstats/blob/master/data/data.RData)**.
