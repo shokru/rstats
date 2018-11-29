@@ -47,8 +47,6 @@ The original **[Rmd files](https://github.com/shokru/rstats/blob/master/material
 
 **[Links: R on the web](https://github.com/shokru/rstats/blob/master/material/R_links.md)**: a short list of links, sorted by themes.  
 
-Exercises and solutions are available upon request.  
-
 ------------------------------------------------------------------------
 
 **DISCLAIMER**: the data and code are meant for pedagogical use only. 
