@@ -1,18 +1,18 @@
 Introduction to statistical methods with R
 ================
-This repository contains teaching material for introductory courses in R.
+This repository contains teaching material for **introductory** courses of statistics in R.
 
 
 Courses
 ----
 
-The scripts for each session can be found below. __If the links fail to load (the files for session 3 and the financial example are heavy), you can download the orignal html notebooks directly on your computer.__
+The scripts for each session can be found below. Some files are too heavy to load: you can download the orignal html notebooks directly on your computer (from the dedicated folder).
 
 1.  **[Introduction to the tidyverse](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S1_tidyverse.nb.html)**: plotting, filtering, organising data.
 
 2.  **[Basic R instructions](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S2_Basics.nb.html)**: package installation, data generation, matrix & dataframe manipulation, loops and simple functions.
 
-3.  **[Distributions](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S3_Distributions.nb.html)**: descriptive statistics, parametric distributions, plots, histograms, etc.
+3.  **Distributions**: descriptive statistics, parametric distributions, plots, histograms, etc.
 
 4.  **[Maximum likelihood estimation](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S4_MLE.nb.html)**: moment matching versus the mle/mle2 functions.
 
@@ -36,7 +36,7 @@ Supplementary material:
 
 **[R memo](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/R_Memo.nb.html)**: a compilation of everything you need to know (survival toolkit).
 
-**[Example on financial data](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/Fin_solutions.nb.html)**: exercises on 30 large US firms; data **[here](https://github.com/shokru/rstats/blob/master/Figures/data.RData)**.
+**Example on financial data**: exercises on 30 large US firms; data **[here](https://github.com/shokru/rstats/blob/master/Figures/data.RData)**.
 
 **[Links: R on the web](https://github.com/shokru/rstats/blob/master/md/R_links.md)**: a short list of links, sorted by themes.  
 
