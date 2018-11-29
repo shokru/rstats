@@ -45,7 +45,7 @@ Supplementary material:
 
 **[Links: R on the web](https://github.com/shokru/rstats/blob/master/md/R_links.md)**: a short list of links, sorted by themes.  
 
-Exercises and solutions are available upon request.
+Exercises and solutions are available upon request.  
 
 ------------------------------------------------------------------------
 
