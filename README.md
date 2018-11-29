@@ -43,7 +43,7 @@ Supplementary material:
 
 **Example on financial data** (no link: file too big!): exercises on 30 large US firms; data **[here](https://github.com/shokru/rstats/blob/master/data/data.RData)**.
 
-**[Links: R on the web](https://github.com/shokru/rstats/blob/master/md/R_links.md)**: a short list of links, sorted by themes.  
+**[Links: R on the web](https://github.com/shokru/rstats/blob/master/material/R_links.md)**: a short list of links, sorted by themes.  
 
 Exercises and solutions are available upon request.  
 
