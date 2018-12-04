@@ -2,6 +2,8 @@ Introduction to statistical methods with R
 ================
 This repository contains teaching material for **introductory** courses of statistics in R.
 
+------------------------------------------------------------------------
+
 
 Courses
 ----
@@ -26,17 +28,6 @@ The html notebooks for each session can be found below.
 8.  **[Statistical tests & regressions](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S8_Test.nb.html)**: one and two mean tests, basic regression analysis.
 
 
-Datasets:
-----------
-
-> **[ANES data: US political surveys (1990-2016)](https://github.com/shokru/rstats/blob/master/data/anes.RData)** and in **[Excel form](https://github.com/shokru/rstats/blob/master/data/anes.xlsx)**
-
-> **[French economic indicators](https://github.com/shokru/rstats/blob/master/data/economics.RData)**
-
-> **[Financial data on 30 large US firms](https://github.com/shokru/rstats/blob/master/data/data.RData)**
-
-You can download all files at once **[here](https://github.com/shokru/rstats/blob/master/data/all_files.zip)**.
-
 Supplementary material:
 ----------
 
@@ -47,6 +38,20 @@ The original **[Rmd files](https://github.com/shokru/rstats/blob/master/material
 **Example on financial data** (no link: file too big!): exercises on 30 large US firms; data **[here](https://github.com/shokru/rstats/blob/master/data/data.RData)**.
 
 **[Links: R on the web](https://github.com/shokru/rstats/blob/master/material/R_links.md)**: a short list of links, sorted by themes.  
+
+------------------------------------------------------------------------
+
+
+Datasets:
+----------
+
+> **[ANES data: US political surveys (1990-2016)](https://github.com/shokru/rstats/blob/master/data/anes.RData)** and in **[Excel form](https://github.com/shokru/rstats/blob/master/data/anes.xlsx)**
+
+> **[French economic indicators](https://github.com/shokru/rstats/blob/master/data/economics.RData)**
+
+> **[Financial data on 30 large US firms](https://github.com/shokru/rstats/blob/master/data/data.RData)**
+
+You can download all files at once **[here](https://github.com/shokru/rstats/blob/master/data/all_files.zip)**.
 
 ------------------------------------------------------------------------
 
