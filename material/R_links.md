@@ -23,6 +23,7 @@ Learning / Pedagogy
 
 **[Datacamp's free intoduction to R](https://www.datacamp.com/courses/free-introduction-to-r)**: introduction to data structures.
 
+**[Josehp Larmarange's wiki](https://larmarange.github.io/analyse-R/)**: Great overview of R (in French).
 
 ------------------------------------------------------------------------
 
