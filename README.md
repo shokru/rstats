@@ -31,7 +31,7 @@ The html notebooks for each session can be found below.
 Supplementary material:
 ----------
 
-The original **[Rmd files](https://github.com/shokru/rstats/blob/master/material/all_Rmd.zip)** (.zip) as well as the correction of exercises **[also in Rmd format](https://github.com/shokru/rstats/blob/master/material/Solution_files.zip)** (.zip also).
+The original **[Rmd files](https://github.com/shokru/rstats/blob/master/material/all_Rmd.zip)** (.zip) as well as the correction of exercises: **[data, html and Rmd format](https://github.com/shokru/rstats/blob/master/material/Solution_files.zip)** (.zip also).
 
 **[R memo](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/R_Memo.nb.html)**: a compilation of everything you need to know (survival toolkit).
 
