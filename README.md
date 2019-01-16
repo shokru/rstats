@@ -18,15 +18,15 @@ You can of course download the orignal html notebooks directly on your computer 
 
 3.  **Distributions** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S3_Distributions.md): descriptive statistics, parametric distributions, plots, histograms, etc.
 
-4.  **Maximum likelihood estimation** [simple](https://github.com/shokru/rstats/blob/master/pages/S4_MLE.md) [html](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S4_MLE.nb.html): moment matching versus the mle/mle2 functions.
+4.  **Maximum likelihood estimation** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S4_MLE.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S4_MLE.nb.html): moment matching versus the mle/mle2 functions.
 
-5.  **Monte-Carlo simulations** [simple](https://github.com/shokru/rstats/blob/master/pages/S5_MC.md) [html](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S5_MC.nb.html): random number generation with sequential tournaments as examples + cool exercises.
+5.  **Monte-Carlo simulations** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S5_MC.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S5_MC.nb.html): random number generation with sequential tournaments as examples + cool exercises.
 
-6.  **Time-series analysis** [simple](https://github.com/shokru/rstats/blob/master/pages/S6_TS.md) [html](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S6_TS.nb.html): AR, VAR fitting & predictions using **[French economic data](https://github.com/shokru/rstats/blob/master/data/economics.RData)**.
+6.  **Time-series analysis** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S6_TS.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S6_TS.nb.html): AR, VAR fitting & predictions using **[French economic data](https://github.com/shokru/rstats/blob/master/data/economics.RData)**.
 
-7.  **Bayesian inference** [simple](https://github.com/shokru/rstats/blob/master/pages/S7_Bayes.md) [html](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S7_Bayes.nb.html): conjugate priors, grid approximation and a snapshot of Markov Chains (but no MCMC sadly).
+7.  **Bayesian inference** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S7_Bayes.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S7_Bayes.nb.html): conjugate priors, grid approximation and a snapshot of Markov Chains (but no MCMC sadly).
 
-8.  **Statistical tests & regressions** [html](https://github.com/shokru/rstats/blob/master/pages/S8_Test.md) [html](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S8_Test.nb.html): one and two mean tests, basic regression analysis.
+8.  **Statistical tests & regressions** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S8_Test.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S8_Test.nb.html): one and two mean tests, basic regression analysis.
 
 
 Supplementary material:
