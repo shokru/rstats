@@ -14,19 +14,19 @@ You can of course download the orignal html notebooks directly on your computer 
 
 1.  **Introduction to the tidyverse** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S1_tidyverse.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S1_tidyverse.nb.html): plotting, filtering, organising data.
 
-2.  **Basic R instructions** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S2_Basics.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S2_Basics.nb.html): package installation, data generation, matrix & dataframe manipulation, loops and simple functions.
+2.  **Basic R instructions** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S2_Basics.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S2_Basics.nb.html): package installation, data generation, matrix & dataframe manipulation, loops and simple functions.
 
 3.  **Distributions** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S3_Distributions.md): descriptive statistics, parametric distributions, plots, histograms, etc.
 
-4.  **Maximum likelihood estimation** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S4_MLE.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S4_MLE.nb.html): moment matching versus the mle/mle2 functions.
+4.  **Maximum likelihood estimation** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S4_MLE.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S4_MLE.nb.html): moment matching versus the mle/mle2 functions.
 
-5.  **Monte-Carlo simulations** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S5_MC.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S5_MC.nb.html): random number generation with sequential tournaments as examples + cool exercises.
+5.  **Monte-Carlo simulations** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S5_MC.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S5_MC.nb.html): random number generation with sequential tournaments as examples + cool exercises.
 
-6.  **Time-series analysis** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S6_TS.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S6_TS.nb.html): AR, VAR fitting & predictions using **[French economic data](https://github.com/shokru/rstats/blob/master/data/economics.RData)**.
+6.  **Time-series analysis** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S6_TS.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S6_TS.nb.html): AR, VAR fitting & predictions using **[French economic data](https://github.com/shokru/rstats/blob/master/data/economics.RData)**.
 
-7.  **Bayesian inference** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S7_Bayes.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S7_Bayes.nb.html): conjugate priors, grid approximation and a snapshot of Markov Chains (but no MCMC sadly).
+7.  **Bayesian inference** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S7_Bayes.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S7_Bayes.nb.html): conjugate priors, grid approximation and a snapshot of Markov Chains (but no MCMC sadly).
 
-8.  **Statistical tests & regressions** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S8_Test.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S8_Test.nb.html): one and two mean tests, basic regression analysis.
+8.  **Statistical tests & regressions** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S8_Test.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S8_Test.nb.html): one and two mean tests, basic regression analysis.
 
 
 Supplementary material:
@@ -34,9 +34,9 @@ Supplementary material:
 
 The original **[Rmd files](https://github.com/shokru/rstats/blob/master/material/all_Rmd.zip)** (.zip) as well as the correction of exercises: **[data + html and Rmd format](https://github.com/shokru/rstats/blob/master/material/Solution_files.zip)** (.zip also).
 
-**[R memo](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/R_Memo.nb.html)**: a compilation of everything you need to know (survival toolkit).
+**R memo [[simple]](https://github.com/shokru/rstats/blob/master/pages/R_Memo.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/R_Memo.nb.html): a compilation of everything you need to know (survival toolkit).
 
-**Example on financial data** (no link: file too big!): exercises on 30 large US firms; data **[here](https://github.com/shokru/rstats/blob/master/data/data.RData)**.
+**Example on financial data** [[simple]](https://github.com/shokru/rstats/blob/master/pages/Fin_solutions.md): exercises on 30 large US firms; data **[here](https://github.com/shokru/rstats/blob/master/data/data.RData)**.
 
 **[Links: R on the web](https://github.com/shokru/rstats/blob/master/material/R_links.md)**: a short list of links, sorted by themes.  
 
