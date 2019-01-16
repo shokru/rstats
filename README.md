@@ -8,17 +8,17 @@ This repository contains teaching material for **introductory** courses of stati
 Courses
 ----
 
-We provide two formats for the sessions: simple Github markdown and html notebook. The latter are more complete **but take longer to load and sometimes cannot load**.
+We provide two formats for the sessions: simple Github markdown and html notebook. The latter have a better rendering **but take longer to load and sometimes cannot load**.
 
 You can of course download the orignal html notebooks directly on your computer and open them in your browser (from the **pages** folder - just above).
 
-1.  **Introduction to the tidyverse** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S1_tidyverse.md), [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S1_tidyverse.nb.html): plotting, filtering, organising data.
+1.  **Introduction to the tidyverse** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S1_tidyverse.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S1_tidyverse.nb.html): plotting, filtering, organising data.
 
-2.  **Basic R instructions** [[simple]](https://github.com/shokru/rstats/blob/master/html_notebooks/S2_Basics.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S2_Basics.nb.html): pkg installation, data generation, matrix & dataframe manipulation, loops and simple functions.
+2.  **Basic R instructions** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S2_Basics.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S2_Basics.nb.html): package installation, data generation, matrix & dataframe manipulation, loops and simple functions.
 
-3.  **Distributions** (no link: file too big!): descriptive statistics, parametric distributions, plots, histograms, etc.
+3.  **Distributions** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S3_Distributions.md): descriptive statistics, parametric distributions, plots, histograms, etc.
 
-4.  **[Maximum likelihood estimation](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S4_MLE.nb.html)**: moment matching versus the mle/mle2 functions.
+4.  **Maximum likelihood estimation** [simple](https://github.com/shokru/rstats/blob/master/pages/S4_MLE.md) [html](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S4_MLE.nb.html): moment matching versus the mle/mle2 functions.
 
 5.  **[Monte-Carlo simulations](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S5_MC.nb.html)**: random number generation with sequential tournaments as examples + cool exercises.
 
