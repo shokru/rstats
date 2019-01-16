@@ -8,7 +8,7 @@ This repository contains teaching material for **introductory** courses of stati
 Courses
 ----
 
-We provide two formats for the sessions: simple Github markdown and html notebook. The latter have a better rendering **but take longer to load and sometimes cannot load**.
+We provide two formats for the sessions: simple Github markdown and html notebook. The latter have a better rendering **but take longer to load and sometimes cannot load** (the files are too heavy).
 
 You can of course download the orignal html notebooks directly on your computer and open them in your browser (from the **pages** folder - just above).
 
@@ -38,7 +38,7 @@ The original **[Rmd files](https://github.com/shokru/rstats/blob/master/material
 
 **Example on financial data** [[simple]](https://github.com/shokru/rstats/blob/master/pages/Fin_solutions.md): exercises on 30 large US firms; data **[here](https://github.com/shokru/rstats/blob/master/data/data.RData)**.
 
-**[Links: R on the web](https://github.com/shokru/rstats/blob/master/material/R_links.md)**: a short list of links, sorted by themes.  
+**Links:** [R on the web](https://github.com/shokru/rstats/blob/master/material/R_links.md): a short list of links, sorted by themes.  
 
 ------------------------------------------------------------------------
 
