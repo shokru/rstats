@@ -12,7 +12,7 @@ We provide two formats for the sessions: markdown and html notebook. The latter 
 
 You can of course download the orignal html notebooks directly on your computer and open them in your browser (from the **pages** folder - just above).
 
-1.  **Introduction to the tidyverse ** [markdown](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S1_tidyverse.md), [html](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S1_tidyverse.nb.html): plotting, filtering, organising data.
+1.  **Introduction to the tidyverse** [markdown](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S1_tidyverse.md), [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S1_tidyverse.nb.html): plotting, filtering, organising data.
 
 2.  **[Basic R instructions](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S2_Basics.nb.html)**: pkg installation, data generation, matrix & dataframe manipulation, loops and simple functions.
 
