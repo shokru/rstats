@@ -8,10 +8,11 @@ This repository contains teaching material for **introductory** courses of stati
 Courses
 ----
 
-The html notebooks for each session can be found below.   
-**_Some files are too heavy to load in htmlpreview_**: you can download the orignal html notebooks directly on your computer and open them in your browser (from the dedicated folder - just above).
+We provide two formats for the sessions: markdown and html notebook. The latter are more complete but take longer to load and sometimes cannot load.
 
-1.  **[Introduction to the tidyverse](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S1_tidyverse.nb.html)**: plotting, filtering, organising data.
+You can of course download the orignal html notebooks directly on your computer and open them in your browser (from the **pages** folder - just above).
+
+1.  ** Introduction to the tidyverse **[html](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S1_tidyverse.nb.html): plotting, filtering, organising data.
 
 2.  **[Basic R instructions](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/html_notebooks/S2_Basics.nb.html)**: pkg installation, data generation, matrix & dataframe manipulation, loops and simple functions.
 
