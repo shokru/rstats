@@ -101,9 +101,13 @@ ggplot(diamonds,aes(x = price, fill = color)) + geom_hline(yintercept = 1000) +
 ![](S1_tidyverse_files/figure-markdown_github/Going%20even%20further%20&%20adding%20a%20layer%20+%20changing%20colour%20palette-1.png)
 
 Further references for graph types:
+
 <https://developers.google.com/chart/interactive/docs/gallery>
+
 <https://plot.ly/r/>
+
 <https://www.r-graph-gallery.com/all-graphs/>
+
 <https://plot.ly/r/shiny-gallery/> (dynamic & interactive)
 
 Data manipulation
