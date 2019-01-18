@@ -65,4 +65,4 @@ You can download all files at once **[here](https://github.com/shokru/rstats/blo
 Maintainer
 ----------
 
-Any questions / comments / requests can be sent to guillaume.coqueret"at"gmail.com.
+Any questions / comments / requests can be sent to guillaume.coqueret"at"gmail.com. Errors are my own.
