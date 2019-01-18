@@ -25,6 +25,8 @@ Learning / Pedagogy
 
 **[Josehp Larmarange's wiki](https://larmarange.github.io/analyse-R/)**: Great overview of R (in French).
 
+**[Julien Barnier's intro](https://juba.github.io/tidyverse/index.html)**: Great intro to R and the tidyverse (in French).
+
 ------------------------------------------------------------------------
 
 
