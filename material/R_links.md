@@ -52,7 +52,7 @@ Visualisation
 
 **[BBC cookbook for ggplot](https://bbc.github.io/rcookbook/)**: recipes to create graphs like those of the BBC data crew!
 
-**[Animated plots with gganimate](https://www.data-imaginist.com/2018/what-are-we-plotting-what-are-we-animating/)**: ggplot, only, in motion! Home repo [here](https://github.com/thomasp85/gganimat
+**[Animated plots with gganimate](https://www.data-imaginist.com/2018/what-are-we-plotting-what-are-we-animating/)**: ggplot, only, in motion! Home repo [here](https://github.com/thomasp85/gganimate)
 
 **[Generative Art with R (1)](https://github.com/cutterkom/generativeart)**: amazing geometric plots.
 
