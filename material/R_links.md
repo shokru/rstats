@@ -52,8 +52,9 @@ Visualisation
 
 **[Animated plots with gganimate](https://www.data-imaginist.com/2018/what-are-we-plotting-what-are-we-animating/)**: ggplot, only, in motion!
 
-**[Generative Art with R](https://github.com/cutterkom/generativeart)**: amazing geometric plots.
+**[Generative Art with R (1)](https://github.com/cutterkom/generativeart)**: amazing geometric plots.
 
+**[Generative Art with R (2)](https://github.com/marcusvolz/mathart)**: amazing plots: the power of ggplot!
 
 ------------------------------------------------------------------------
 
@@ -64,6 +65,8 @@ Text mining
 **[Basic text mining in R](https://rstudio-pubs-static.s3.amazonaws.com/265713_cbef910aee7642dc8b62996e38d2825d.html)**: a smooth introduction.
 
 **[Scrapping & text mining tripadvisor](https://towardsdatascience.com/scraping-tripadvisor-text-mining-and-sentiment-analysis-for-hotel-reviews-cc4e20aef333)**: sentiment analysis.
+
+**[Sentiment from news](https://github.com/aleszu/textanalysis-shiny/blob/master/README.md)**: nice flexible shiny app for sentiment in user-uploaded text.
 
 
 ------------------------------------------------------------------------
