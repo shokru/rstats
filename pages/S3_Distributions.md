@@ -323,7 +323,7 @@ Exercises
 ### Plotting
 
 1.  Plot the density of a Cauchy distribution with parameters: location = 1, scale = 2.
-2.  Plot the following density: f(x) = 4\*(1+abs(x))^(-1.5).
+2.  Plot the following density: f(x) = 0.25*(1+abs(x))^(-1.5).
 
 ### Descriptive statistics for the Cauchy distribution
 
