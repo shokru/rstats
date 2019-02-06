@@ -10,8 +10,6 @@ Courses
 
 We provide the Github markdown below, but the rendering is much better in html notebook. The latter can be found  [[here]](https://www.gcoqueret.com/rstats.html).
 
-You can of course download the orignal html notebooks directly on your computer and open them in your browser (from the **pages** folder - just above).
-
 1.  [**Introduction to the tidyverse**](https://github.com/shokru/rstats/blob/master/pages/S1_tidyverse.md): plotting, filtering, organising data.
 
 2.   [**Basic R instructions**](https://github.com/shokru/rstats/blob/master/pages/S2_Basics.md): package installation, data generation, matrix & dataframe manipulation, loops and simple functions.
