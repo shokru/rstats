@@ -8,25 +8,25 @@ This repository contains teaching material for **introductory** courses of stati
 Courses
 ----
 
-We provide the Github markdown below, but the rendering is much better in html notebook. The latter can be found  [[here]](https://www.gcoqueret.com/rstats.html)
+We provide the Github markdown below, but the rendering is much better in html notebook. The latter can be found  [[here]](https://www.gcoqueret.com/rstats.html).
 
 You can of course download the orignal html notebooks directly on your computer and open them in your browser (from the **pages** folder - just above).
 
-1.  [[**Introduction to the tidyverse**]](https://github.com/shokru/rstats/blob/master/pages/S1_tidyverse.md): plotting, filtering, organising data.
+1.  [**Introduction to the tidyverse**](https://github.com/shokru/rstats/blob/master/pages/S1_tidyverse.md): plotting, filtering, organising data.
 
-2.  **Basic R instructions** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S2_Basics.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S2_Basics.nb.html): package installation, data generation, matrix & dataframe manipulation, loops and simple functions.
+2.   [**Basic R instructions**](https://github.com/shokru/rstats/blob/master/pages/S2_Basics.md): package installation, data generation, matrix & dataframe manipulation, loops and simple functions.
 
-3.  **Distributions** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S3_Distributions.md): descriptive statistics, parametric distributions, plots, histograms, etc.
+3.   [**Distributions**](https://github.com/shokru/rstats/blob/master/pages/S3_Distributions.md): descriptive statistics, parametric distributions, plots, histograms, etc.
 
-4.  **Maximum likelihood estimation** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S4_MLE.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S4_MLE.nb.html): moment matching versus the mle/mle2 functions.
+4.   [**Maximum likelihood estimation**](https://github.com/shokru/rstats/blob/master/pages/S4_MLE.md): moment matching versus the mle/mle2 functions.
 
-5.  **Monte-Carlo simulations** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S5_MC.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S5_MC.nb.html): random number generation with sequential tournaments as examples + cool exercises.
+5.   [**Monte-Carlo simulations**](https://github.com/shokru/rstats/blob/master/pages/S5_MC.md): random number generation with sequential tournaments as examples + cool exercises.
 
-6.  **Time-series analysis** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S6_TS.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S6_TS.nb.html): AR, VAR fitting & predictions using **[French economic data](https://github.com/shokru/rstats/blob/master/data/economics.RData)**.
+6.   [**Time-series analysis**](https://github.com/shokru/rstats/blob/master/pages/S6_TS.md): AR, VAR fitting & predictions using **[French economic data](https://github.com/shokru/rstats/blob/master/data/economics.RData)**.
 
-7.  **Bayesian inference** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S7_Bayes.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S7_Bayes.nb.html): conjugate priors, grid approximation and a snapshot of Markov Chains (but no MCMC sadly).
+7.   [**Bayesian inference**](https://github.com/shokru/rstats/blob/master/pages/S7_Bayes.md): conjugate priors, grid approximation and a snapshot of Markov Chains (but no MCMC sadly).
 
-8.  **Statistical tests & regressions** [[simple]](https://github.com/shokru/rstats/blob/master/pages/S8_Test.md) [[html]](https://htmlpreview.github.io/?https://github.com/shokru/rstats/blob/master/pages/S8_Test.nb.html): one and two mean tests, basic regression analysis.
+8.   [**Statistical tests & regressions**](https://github.com/shokru/rstats/blob/master/pages/S8_Test.md): one and two mean tests, basic regression analysis.
 
 
 Supplementary material:
