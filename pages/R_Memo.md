@@ -31,7 +31,7 @@ A large majority of commands use an arrow "&lt;-". The following line
 
 a &lt;- b
 
-means that the software will put value b inside variable a.
+means that value b will be assigned to variable a.
 
 1 - BASICS
 ----------
