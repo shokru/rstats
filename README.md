@@ -32,7 +32,7 @@ Supplementary material:
 
 The original **[Rmd files](https://github.com/shokru/rstats/blob/master/material/all_Rmd.zip)** (.zip) as well as the correction of exercises: **[data + html and Rmd format](https://github.com/shokru/rstats/blob/master/material/Solution_files.zip)** (.zip also).
 
-** [R memo](https://github.com/shokru/rstats/blob/master/pages/R_Memo.md) : a compilation of everything you need to know (survival toolkit).
+[**R memo**](https://github.com/shokru/rstats/blob/master/pages/R_Memo.md) : a compilation of everything you need to know (survival toolkit).
 
  [**Example on financial data**](https://github.com/shokru/rstats/blob/master/pages/Fin_solutions.md): exercises on 30 large US firms; data **[here](https://github.com/shokru/rstats/blob/master/data/data.RData)**.
 
