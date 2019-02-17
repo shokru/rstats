@@ -27,6 +27,8 @@ Learning / Pedagogy
 
 **[Julien Barnier's intro](https://juba.github.io/tidyverse/index.html)**: Great intro to R and the tidyverse (in French).
 
+**[tidyverse snapshot](https://speakerdeck.com/hadley/welcome-to-the-tidyverse)**: Impressive deck by Hadley Wickham.
+
 ------------------------------------------------------------------------
 
 
