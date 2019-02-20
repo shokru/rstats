@@ -56,9 +56,16 @@ Visualisation
 
 **[Animated plots with gganimate](https://www.data-imaginist.com/2018/what-are-we-plotting-what-are-we-animating/)**: ggplot, only, in motion! Home repo [here](https://github.com/thomasp85/gganimate).
 
+
+Generative art
+----------
+
 **[Generative Art with R (1)](https://github.com/cutterkom/generativeart)**: amazing geometric plots.
 
 **[Generative Art with R (2)](https://github.com/marcusvolz/mathart)**: amazing plots: the power of ggplot!
+
+**[Mandalas in R](https://fronkonstin.com/2018/03/11/mandalas-colored/)**: geometry & color combined!.
+
 
 ------------------------------------------------------------------------
 
