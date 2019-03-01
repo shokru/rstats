@@ -23,6 +23,8 @@ Learning / Pedagogy
 
 **[Datacamp's free intoduction to R](https://www.datacamp.com/courses/free-introduction-to-r)**: introduction to data structures.
 
+Bradley Boehmke's courses: **[Beginner](https://github.com/uc-r/Intro-R)**, **[Intermediate](https://github.com/uc-r/Intermediate-R)** and **[Expert](https://github.com/uc-r/Advanced-R)**: great material for all levels!
+
 **[Josehp Larmarange's wiki](https://larmarange.github.io/analyse-R/)**: Great overview of R (in French).
 
 **[Julien Barnier's intro](https://juba.github.io/tidyverse/index.html)**: Great intro to R and the tidyverse (in French).
