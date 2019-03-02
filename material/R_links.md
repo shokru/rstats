@@ -17,6 +17,15 @@ Online books
 **[R for data science](https://r4ds.had.co.nz)**: THE reference. Must read, must have.
 
 
+Curated lists of resources / packages
+----------
+
+**[Machine Learning - Joseph Misiti](https://github.com/josephmisiti/awesome-machine-learning#r-general-purpose)**
+
+**[List of cool packages I](https://awesome-r.com)**: by awesome R
+
+**[List of cool packages II](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)**: by Garrett Grolemund (RStudio)
+
 
 Learning / Pedagogy
 ----
