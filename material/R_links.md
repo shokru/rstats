@@ -20,7 +20,7 @@ Online books
 Curated lists of resources / packages
 ----------
 
-**[Machine Learning - Joseph Misiti](https://github.com/josephmisiti/awesome-machine-learning#r-general-purpose)**
+**[Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#r-general-purpose)**: by Joseph Misiti
 
 **[List of cool packages I](https://awesome-r.com)**: by awesome R
 
