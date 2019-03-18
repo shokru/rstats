@@ -35,6 +35,8 @@ The original **[Rmd files](https://github.com/shokru/rstats/blob/master/material
 [**R memo**](https://github.com/shokru/rstats/blob/master/pages/R_Memo.md) : a compilation of everything you need to know (survival toolkit).
 
  [**Example on financial data**](https://github.com/shokru/rstats/blob/master/pages/Fin_solutions.md): exercises on 30 large US firms; data **[here](https://github.com/shokru/rstats/blob/master/data/data.RData)**.
+ 
+ [**Short tutorial**](https://gcoqueret.shinyapps.io/Tidyverse-exercises/): online exercises (& solutions) on the core functions of the tidyverse.
 
 **Links:** [R on the web](https://github.com/shokru/rstats/blob/master/material/R_links.md): a short list of links, sorted by themes.  
 
