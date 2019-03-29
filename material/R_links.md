@@ -42,6 +42,8 @@ Bradley Boehmke's courses: **[Beginner](https://github.com/uc-r/Intro-R)**, **[I
 
 **[More on tidy data](https://jules32.github.io/2016-07-12-Oxford/dplyr_tidyr/#1_tidy_data_overview)**: dplyr & tidyr by Julie Lowndes.
 
+**[Data Science in a Box!](https://datasciencebox.org/)**: very large scope course on data science with lots of material.
+
 ------------------------------------------------------------------------
 
 
