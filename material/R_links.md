@@ -38,6 +38,8 @@ Bradley Boehmke's courses: **[Beginner](https://github.com/uc-r/Intro-R)**, **[I
 
 **[Julien Barnier's intro](https://juba.github.io/tidyverse/index.html)**: Great intro to R and the tidyverse (in French).
 
+**[Florian Privé's book/wiki](https://privefl.github.io/advr38book/)**: Good intro to R/RStudio (in French).
+
 **[tidyverse snapshot](https://speakerdeck.com/hadley/welcome-to-the-tidyverse)**: Impressive deck by Hadley Wickham.
 
 **[More on tidy data](https://jules32.github.io/2016-07-12-Oxford/dplyr_tidyr/#1_tidy_data_overview)**: dplyr & tidyr by Julie Lowndes.
