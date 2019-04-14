@@ -60,6 +60,8 @@ Machine learning
 
 **[The caret package](https://www.machinelearningplus.com/machine-learning/caret-package/)**: probably the most complete ML package.
 
+**[Erin LeDell's large scale tutorial](https://koalaverse.github.io/machine-learning-in-R/)**: an efficient overview of the main algorithms with lots of code chunks.
+
 
 ------------------------------------------------------------------------
 
