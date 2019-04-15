@@ -30,7 +30,7 @@ Curated lists of resources / packages
 Learning / Pedagogy
 ----
 
-**[Datacamp's free intoduction to R](https://www.datacamp.com/courses/free-introduction-to-r)**: introduction to data structures.
+**[Yan Holt's intoduction to R tools](https://www.yan-holtz.com/teaching)**: much focused on visualization.
 
 Bradley Boehmke's courses: **[Beginner](https://github.com/uc-r/Intro-R)**, **[Intermediate](https://github.com/uc-r/Intermediate-R)** and **[Expert](https://github.com/uc-r/Advanced-R)**: great material for all levels!
 
