@@ -56,7 +56,7 @@ Bradley Boehmke's courses: **[Beginner](https://github.com/uc-r/Intro-R)**, **[I
 Machine learning
 ----------
 
-**[Keras for R](https://blog.rstudio.com/2017/09/05/keras-for-r/)**: arguably the best solution for neural networks.
+**[Keras for R](https://blog.rstudio.com/2017/09/05/keras-for-r/)**: arguably the best solution for neural networks. **[Homepage here](https://keras.rstudio.com)**
 
 **[The xgboost package](https://xgboost.readthedocs.io/en/latest/R-package/xgboostPresentation.html)**: one of the best for boosted trees (with lightgbm).
 
