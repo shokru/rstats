@@ -46,6 +46,8 @@ Bradley Boehmke's courses: **[Beginner](https://github.com/uc-r/Intro-R)**, **[I
 
 **[Data Science in a Box!](https://datasciencebox.org/)**: very large scope course on data science with lots of material.
 
+**[Data Science repo](https://github.com/Chris-Engelhardt/data_sci_guide)**: an aggregation of Data Science resources.
+
 **[Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/index.html)**: exhaustive book on (online) visualization techniques.
 
 ------------------------------------------------------------------------
