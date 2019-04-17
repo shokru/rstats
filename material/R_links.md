@@ -60,7 +60,7 @@ Machine learning
 
 **[The xgboost package](https://xgboost.readthedocs.io/en/latest/R-package/xgboostPresentation.html)**: one of the best for boosted trees (with lightgbm).
 
-**[The caret package](https://www.machinelearningplus.com/machine-learning/caret-package/)**: probably the most complete ML package.
+**[The caret package](https://www.machinelearningplus.com/machine-learning/caret-package/)**: probably the most complete ML package. **[Book here](https://topepo.github.io/caret/index.html)**
 
 **[Erin LeDell's large scale tutorial](https://koalaverse.github.io/machine-learning-in-R/)**: an efficient overview of the main algorithms with lots of code chunks.
 
