@@ -64,6 +64,8 @@ Machine learning
 
 **[Erin LeDell's large scale tutorial](https://koalaverse.github.io/machine-learning-in-R/)**: an efficient overview of the main algorithms with lots of code chunks.
 
+**[Christoph Molnar's online book](https://christophm.github.io/interpretable-ml-book/)**: a great resource for interpretability of ML models.
+
 
 ------------------------------------------------------------------------
 
