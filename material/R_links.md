@@ -66,6 +66,8 @@ Machine learning
 
 **[Christoph Molnar's online book](https://christophm.github.io/interpretable-ml-book/)**: a great resource for interpretability of ML models.
 
+**[Tidymodels](https://www.r-bloggers.com/tidymodels/)**: a meta package dedicated to: preparing data, assessing models, exporting results, etc. **[Reference here](https://github.com/tidymodels)**
+
 
 ------------------------------------------------------------------------
 
