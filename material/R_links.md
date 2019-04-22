@@ -91,7 +91,9 @@ Generative art
 
 **[Generative Art with R (2)](https://github.com/marcusvolz/mathart)**: amazing plots: the power of ggplot!
 
-**[Mandalas in R](https://fronkonstin.com/2018/03/11/mandalas-colored/)**: geometry & color combined!.
+**[Mandalas in R](https://fronkonstin.com/2018/03/11/mandalas-colored/)**: geometry & color combined.
+
+**[Fractal flowers](https://github.com/aschinchon/julia-flowers)**: ggplot + colourlovers!
 
 
 ------------------------------------------------------------------------
