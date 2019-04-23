@@ -14,7 +14,9 @@ Online books
 
 **[Text mining with R](https://www.tidytextmining.com)**: one reference book on the subject.
 
-**[R for data science](https://r4ds.had.co.nz)**: THE reference. Must read, must have.
+**[R for data science](https://r4ds.had.co.nz)**: **THE** reference. Must read, must have.
+
+**[R graphics cookbook](https://r-graphics.org)**: the way to go if you're starting on ggplot().
 
 
 Curated lists of resources / packages
