@@ -97,6 +97,8 @@ Generative art
 
 **[Fractal flowers](https://github.com/aschinchon/julia-flowers)**: ggplot + colourlovers!
 
+**[Clifford attractors](https://fronkonstin.com/2017/11/07/drawing-10-million-points-with-ggplot-clifford-attractors/)**: large scale simulations!
+
 
 ------------------------------------------------------------------------
 
