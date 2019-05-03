@@ -32,8 +32,6 @@ Curated lists of resources / packages
 Learning / Pedagogy
 ----
 
-**[Yan Holt's intoduction to R tools](https://www.yan-holtz.com/teaching)**: much focused on visualization.
-
 Bradley Boehmke's courses: **[Beginner](https://github.com/uc-r/Intro-R)**, **[Intermediate](https://github.com/uc-r/Intermediate-R)** and **[Expert](https://github.com/uc-r/Advanced-R)**: great material for all levels!
 
 **[Josehp Larmarange's wiki](https://larmarange.github.io/analyse-R/)**: Great overview of R (in French).
@@ -51,6 +49,11 @@ Bradley Boehmke's courses: **[Beginner](https://github.com/uc-r/Intro-R)**, **[I
 **[Data Science repo](https://github.com/Chris-Engelhardt/data_sci_guide)**: an aggregation of Data Science resources.
 
 **[Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/index.html)**: exhaustive book on (online) visualization techniques.
+
+**[Yan Holt's intoduction to R tools](https://www.yan-holtz.com/teaching)**: much focused on visualization.
+
+**[Krista DeStasio's best practices](https://kdestasio.github.io/post/r_best_practices/)**: tips on project & code organisation.
+
 
 ------------------------------------------------------------------------
 
