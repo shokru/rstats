@@ -102,6 +102,8 @@ Generative art
 
 **[Clifford attractors](https://fronkonstin.com/2017/11/07/drawing-10-million-points-with-ggplot-clifford-attractors/)**: large scale simulations!
 
+**[Tridokus](https://fronkonstin.com/2018/06/01/coloring-sudokus/)**: Coloring sudokus.
+
 
 ------------------------------------------------------------------------
 
