@@ -16,6 +16,8 @@ Online books
 
 **[R for data science](https://r4ds.had.co.nz)**: **THE** reference. Must read, must have.
 
+**[Hands on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)**: a great (the?) reference for ML in R.
+
 **[R graphics cookbook](https://r-graphics.org)**: the way to go if you're starting on ggplot().
 
 
