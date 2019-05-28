@@ -100,6 +100,8 @@ Generative art
 
 **[Mandalas in R](https://fronkonstin.com/2018/03/11/mandalas-colored/)**: geometry & color combined.
 
+**[Drawing fractals](https://fronkonstin.com/2019/03/27/drrrawing-with-purrr/)**: frontkostin again!
+
 **[Fractal flowers](https://github.com/aschinchon/julia-flowers)**: ggplot + colourlovers!
 
 **[Clifford attractors](https://fronkonstin.com/2017/11/07/drawing-10-million-points-with-ggplot-clifford-attractors/)**: large scale simulations!
