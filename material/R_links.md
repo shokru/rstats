@@ -100,7 +100,7 @@ Generative art
 
 **[Mandalas in R](https://fronkonstin.com/2018/03/11/mandalas-colored/)**: geometry & color combined.
 
-**[Drawing fractals](https://fronkonstin.com/2019/03/27/drrrawing-with-purrr/)**: frontkostin again!
+**[Drawing fractals](https://fronkonstin.com/2019/03/27/drrrawing-with-purrr/)**: fronkostin again!
 
 **[Fractal flowers](https://github.com/aschinchon/julia-flowers)**: ggplot + colourlovers!
 
