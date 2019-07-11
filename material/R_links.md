@@ -108,6 +108,8 @@ Generative art
 
 **[Tridokus](https://fronkonstin.com/2018/06/01/coloring-sudokus/)**: Coloring sudokus.
 
+**[aRt project](https://github.com/will-r-chase/aRt/blob/master/README.md)**: William Chase's monthly productions.
+
 
 ------------------------------------------------------------------------
 
