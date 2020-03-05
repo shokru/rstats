@@ -20,6 +20,13 @@ Online books
 
 **[R graphics cookbook](https://r-graphics.org)**: the way to go if you're starting on ggplot().
 
+**[Introduction to Data Science](https://rafalab.github.io/dsbook/)**: a huge book on many many topics in Data Science, by Rafael Irizarry, from Harvard.
+
+**[Twitter for R programmers](https://www.t4rstats.com)**: very useful for people who want to scrap data from Twitter.
+
+**[Machine learning for factor investing](https://www.mlfactor.com)**: a book on quantitative finance with lots of R code + a financial dataset.
+
+
 
 Curated lists of resources / packages
 ----------
