@@ -24,6 +24,8 @@ Online books
 
 **[Twitter for R programmers](https://www.t4rstats.com)**: very useful for people who want to scrap data from Twitter.
 
+**[Twitter for scientists](https://www.t4scientists.com)**: a book for people who want to get better at using Twitter - not R specific.
+
 **[Machine learning for factor investing](https://www.mlfactor.com)**: a book on quantitative finance with lots of R code + a financial dataset.
 
 **[Technical Analysis with R](https://bookdown.org/kochiuyu/Technical-Analysis-with-R/)**: a book on technical analysis in finance.
