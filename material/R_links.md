@@ -26,6 +26,7 @@ Online books
 
 **[Machine learning for factor investing](https://www.mlfactor.com)**: a book on quantitative finance with lots of R code + a financial dataset.
 
+**[Technical Analysis with R](https://bookdown.org/kochiuyu/Technical-Analysis-with-R/)**: a book on technical analysis in finance.
 
 
 Curated lists of resources / packages
