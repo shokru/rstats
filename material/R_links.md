@@ -8,33 +8,38 @@ Useful links for people interested in R.
 Online books
 ----------
 
-**[An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)**: introductory material. 
-
-**[Advanced R](http://adv-r.had.co.nz)**: for well seasoned users. 
-
-**[Text mining with R](https://www.tidytextmining.com)**: one reference book on the subject.
 
 **[R for data science](https://r4ds.had.co.nz)**: **THE** reference. Must read, must have.
-
-**[Data Science in Education Using R](http://www.datascienceineducation.com)**: Another great book, very didactic with lots of examples.
-
-**[Hands on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)**: a great (the?) reference for ML in R.
-
-**[R graphics cookbook](https://r-graphics.org)**: the way to go if you're starting on ggplot().
 
 **[Introduction to Data Science](https://rafalab.github.io/dsbook/)**: a huge book on many many topics in Data Science, by Rafael Irizarry, from Harvard.
 
 Another **[Introduction to Data Science](https://ubc-dsci.github.io/introduction-to-datascience/)**: a great alternative to the preceding monograph. Maybe slightly more accessible.
 
+**[Data Science in Education Using R](http://www.datascienceineducation.com)**: Another great book, very didactic with lots of examples.
+
+**[Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)**: An exhaustive book on visualization tools & tips.
+
+**[Advanced R](http://adv-r.had.co.nz)**: for well seasoned users. 
+
+**[Text mining with R](https://www.tidytextmining.com)**: one reference book on the subject.
+
+**[R graphics cookbook](https://r-graphics.org)**: the way to go if you're starting on ggplot().
+
 **[Twitter for R programmers](https://www.t4rstats.com)**: very useful for people who want to scrap data from Twitter.
 
 **[Twitter for scientists](https://www.t4scientists.com)**: a book for people who want to get better at using Twitter - not R specific.
 
-**[Machine learning for factor investing](https://www.mlfactor.com)**: a book on quantitative finance with lots of R code + a financial dataset.
+**[Hands on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)**: a great (the?) reference for ML in R.
+
+**[Machine learning for factor investing](https://www.mlfactor.com)**: a book on quantitative finance with lots of R code + a financial dataset. 
+
+**[An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)**: introductory material. 
 
 **[Statistical Inference via Data Science](https://www.tidytextmining.com)**: an incredibly didactic book on various topics in statistics: warmly recommended!
 
 **[Technical Analysis with R](https://moderndive.netlify.com/index.html)**: a book on technical analysis in finance.
+
+
 
 
 Curated lists of resources / packages
