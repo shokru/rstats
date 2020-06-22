@@ -39,6 +39,10 @@ Another **[Introduction to Data Science](https://ubc-dsci.github.io/introduction
 
 **[Technical Analysis with R](https://moderndive.netlify.com/index.html)**: a book on technical analysis in finance.
 
+**[Mastering Shiny](https://mastering-shiny.org)**: Hadley Wickham's secrets on how to build Shiny apps.
+
+**[Outstanding User Interfaces with Shiny](https://divadnojnarg.github.io/outstanding-shiny-ui/)**: An advanced book on Shiny's html/JavaScript capabilities - and how to customize the layout of Shiny apps.
+
 
 
 
