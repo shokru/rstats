@@ -8,6 +8,7 @@ Useful links for people interested in R.
 Online books
 ----------
 
+First, many websites are listed and hosted on https://bookdown.org/home/archive/.
 
 **[R for data science](https://r4ds.had.co.nz)**: **THE** reference. Must read, must have.
 
@@ -33,9 +34,9 @@ Another **[Introduction to Data Science](https://ubc-dsci.github.io/introduction
 
 **[Machine learning for factor investing](https://www.mlfactor.com)**: a book on quantitative finance with lots of R code + a financial dataset. 
 
-**[An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)**: introductory material. 
+**[An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)**: introductory material on ML in R. 
 
-**[Statistical Inference via Data Science](https://www.tidytextmining.com)**: an incredibly didactic book on various topics in statistics: warmly recommended!
+**[Foundations in statistics](https://bookdown.org/speegled/foundations-of-statistics/)**: an incredibly didactic book on various topics in statistics: warmly recommended!
 
 **[Statistical Inference via Data Science](https://moderndive.netlify.com/index.html)**: a book on regressions & hypothesis testing.
 
