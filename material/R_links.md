@@ -37,7 +37,11 @@ Another **[Introduction to Data Science](https://ubc-dsci.github.io/introduction
 
 **[Statistical Inference via Data Science](https://www.tidytextmining.com)**: an incredibly didactic book on various topics in statistics: warmly recommended!
 
-**[Technical Analysis with R](https://moderndive.netlify.com/index.html)**: a book on technical analysis in finance.
+**[Statistical Inference via Data Science](https://moderndive.netlify.com/index.html)**: a book on regressions & hypothesis testing.
+
+**[Financial Engineering Analytics](https://bookdown.org/wfoote01/faur/)**: a general purpose book on R & finance.
+
+**[Technical Analysis with R](https://bookdown.org/kochiuyu/Technical-Analysis-with-R/)**: a book on technical analysis in finance.
 
 **[Mastering Shiny](https://mastering-shiny.org)**: Hadley Wickham's secrets on how to build Shiny apps.
 
