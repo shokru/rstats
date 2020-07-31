@@ -10,6 +10,8 @@ Online books
 
 First, many websites are listed and hosted on https://bookdown.org/home/archive/.
 
+**-- Data Science --**
+
 **[R for data science](https://r4ds.had.co.nz)**: **THE** reference. Must read, must have.
 
 **[Introduction to Data Science](https://rafalab.github.io/dsbook/)**: a huge book on many many topics in Data Science, by Rafael Irizarry, from Harvard.
@@ -18,31 +20,7 @@ Another **[Introduction to Data Science](https://ubc-dsci.github.io/introduction
 
 **[Data Science in Education Using R](http://www.datascienceineducation.com)**: Another great book, very didactic with lots of examples.
 
-**[Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)**: An exhaustive book on visualization tools & tips.
 
-**[Advanced R](http://adv-r.had.co.nz)**: for well seasoned users. 
-
-**[Text mining with R](https://www.tidytextmining.com)**: one reference book on the subject.
-
-**[R graphics cookbook](https://r-graphics.org)**: the way to go if you're starting on ggplot().
-
-**[Twitter for R programmers](https://www.t4rstats.com)**: very useful for people who want to scrap data from Twitter.
-
-**[Twitter for scientists](https://www.t4scientists.com)**: a book for people who want to get better at using Twitter - not R specific.
-
-**[Hands on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)**: a great (the?) reference for ML in R.
-
-**[Machine learning for factor investing](https://www.mlfactor.com)**: a book on quantitative finance with lots of R code + a financial dataset. 
-
-**[An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)**: introductory material on ML in R. 
-
-**[Foundations in statistics](https://bookdown.org/speegled/foundations-of-statistics/)**: an incredibly didactic book on various topics in statistics: warmly recommended!
-
-**[Statistical Inference via Data Science](https://moderndive.netlify.com/index.html)**: a book on regressions & hypothesis testing.
-
-**[Financial Engineering Analytics](https://bookdown.org/wfoote01/faur/)**: a general purpose book on R & finance.
-
-**[Technical Analysis with R](https://bookdown.org/kochiuyu/Technical-Analysis-with-R/)**: a book on technical analysis in finance.
 
 **-- Shiny --**
 
@@ -52,9 +30,54 @@ Another **[Introduction to Data Science](https://ubc-dsci.github.io/introduction
 
 **[Outstanding User Interfaces with Shiny](https://divadnojnarg.github.io/outstanding-shiny-ui/)**: An advanced book on Shiny's html/JavaScript capabilities - and how to customize the layout of Shiny apps.
 
+
+
+**-- Visualization --**
+
+**[Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)**: An exhaustive book on visualization tools & tips.
+
+**[R graphics cookbook](https://r-graphics.org)**: the way to go if you're starting on ggplot().
+
+
+
+**-- Machine Learning --**
+
+**[Hands on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)**: a great (the?) reference for ML in R.
+
+**[An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)**: introductory material on ML in R. 
+
+
+
+**-- Statistics --**
+
+**[Foundations in statistics](https://bookdown.org/speegled/foundations-of-statistics/)**: an incredibly didactic book on various topics in statistics: warmly recommended!
+
+**[Statistical Inference via Data Science](https://moderndive.netlify.com/index.html)**: a book on regressions & hypothesis testing.
+
+
+
+**-- Finance --**
+
+**[Machine learning for factor investing](https://www.mlfactor.com)**: a book on quantitative finance with lots of R code + a financial dataset. 
+
+**[Financial Engineering Analytics](https://bookdown.org/wfoote01/faur/)**: a general purpose book on R & finance.
+
+**[Technical Analysis with R](https://bookdown.org/kochiuyu/Technical-Analysis-with-R/)**: a book on technical analysis in finance.
+
+
+
 **-- Misc. --**
 
 **[Rcpp for everyone](https://teuder.github.io/rcpp4everyone_en/)**: A book dedicated to the integration of C++ in R. Very useful to accelerate simple routines.
+
+**[Advanced R](http://adv-r.had.co.nz)**: for well seasoned users. 
+
+**[Text mining with R](https://www.tidytextmining.com)**: one reference book on the subject.
+
+**[Twitter for R programmers](https://www.t4rstats.com)**: very useful for people who want to scrap data from Twitter.
+
+**[Twitter for scientists](https://www.t4scientists.com)**: a book for people who want to get better at using Twitter - not R specific.
+
 
 
 
