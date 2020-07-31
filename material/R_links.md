@@ -44,12 +44,17 @@ Another **[Introduction to Data Science](https://ubc-dsci.github.io/introduction
 
 **[Technical Analysis with R](https://bookdown.org/kochiuyu/Technical-Analysis-with-R/)**: a book on technical analysis in finance.
 
+**Shiny**
+
 **[Mastering Shiny](https://mastering-shiny.org)**: Hadley Wickham's secrets on how to build Shiny apps.
 
 **[The Shiny AWS book](https://business-science.github.io/shiny-production-with-aws-book/)**: a great tutorial that covers many topics beyond Shiny and AWS (ex: Docker & Git)
 
 **[Outstanding User Interfaces with Shiny](https://divadnojnarg.github.io/outstanding-shiny-ui/)**: An advanced book on Shiny's html/JavaScript capabilities - and how to customize the layout of Shiny apps.
 
+**Misc.**
+
+**[Rcpp for everyone](https://teuder.github.io/rcpp4everyone_en/)**: A book dedicated to the integration of C++ in R. Very useful to accelerate simple routines.
 
 
 
