@@ -20,6 +20,7 @@ Another **[Introduction to Data Science](https://ubc-dsci.github.io/introduction
 
 **[Data Science in Education Using R](http://www.datascienceineducation.com)**: Another great book, very didactic with lots of examples.
 
+**[Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/)**: Great resource for beginners, really starts from scratch.
 
 
 **-- Shiny --**
