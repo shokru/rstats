@@ -65,6 +65,9 @@ Another **[Introduction to Data Science](https://ubc-dsci.github.io/introduction
 
 **[Technical Analysis with R](https://bookdown.org/kochiuyu/Technical-Analysis-with-R/)**: a book on technical analysis in finance.
 
+**[Tidy Portfolio Management in R](https://bookdown.org/sstoeckl/Tidy_Portfoliomanagement_in_R/)**: Portfolio management with some packages in R (xts, PortfolioAnalytics, etc.).
+
+
 
 
 **-- Misc. --**
