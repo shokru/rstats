@@ -10,6 +10,8 @@ Online books
 
 First, many websites are listed and hosted on https://bookdown.org/home/archive/.
 
+One book rules them all! **[The big book of R](https://www.bigbookofr.com)** lists many many books written in and for R!
+
 **-- Data Science --**
 
 **[R for data science](https://r4ds.had.co.nz)**: **THE** reference. Must read, must have.
