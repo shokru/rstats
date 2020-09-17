@@ -122,6 +122,8 @@ Bradley Boehmke's courses: **[Beginner](https://github.com/uc-r/Intro-R)**, **[I
 
 **[Krista DeStasio's best practices](https://kdestasio.github.io/post/r_best_practices/)**: tips on project & code organisation.
 
+**[Kelly Bodwin's course on statistics with R](https://stat150.blog)**: more data science than pure stats in my opinion...
+
 
 ------------------------------------------------------------------------
 
