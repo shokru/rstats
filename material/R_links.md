@@ -57,6 +57,7 @@ Another **[Introduction to Data Science](https://ubc-dsci.github.io/introduction
 
 **[Statistical Inference via Data Science](https://moderndive.netlify.com/index.html)**: a book on regressions & hypothesis testing.
 
+**[Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)**: a great monograph on econometrics with lots of examples.
 
 
 **-- Finance --**
